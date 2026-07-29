@@ -6,13 +6,15 @@ Genera 3 mini-clips separados en Kling (cada uno 5s, luego CapCut recorta a ~1.6
 
 ---
 
-CLIP 7A — Ojos Orión gira desde piano
+CLIP 7A — Ojos Orión gira desde piano + máscara cae
 FIRST FRAME: assets/frames_output/frame_07a.png
 DURATION: 5s (recortar a ~1.6s en CapCut)
 CAMERA: static
 MOTION PROMPT:
-Anime-style extreme close-up of a young man's dark amber-brown eyes behind thin rectangular glasses. His eyes slowly shift sideways to the left over 1 second (as if turning his head to look at someone). His eyelashes flutter once involuntarily. Warm interior light steady. 2D anime cel-shaded Shinkai aesthetic. Silent, alarmed.
-NEGATIVE: rapid head turn, blinking multiple times, eyes closing, morphing face, photorealism, style shift.
+Anime-style extreme close-up of a young man's dark amber-brown eyes behind thin rectangular glasses. Two-beat structure over the first 2 seconds: BEAT 1 (0-1s) his eyes are turned outward with a soft warm expression, corners slightly upturned as if a gentle smile still lingered on his face just below frame — the vestige of the reassuring look he was giving her. BEAT 2 (1-2s) she looks away (implied off-frame), and the moment she no longer sees him his expression collapses: the softness in the eyes evaporates, the outer corners drop, the eyelids sag by 2mm, the amber warmth dulls to something hollow — the mask falls the instant it's not needed. His eyelashes flutter once involuntarily during the transition. Return to hollow stillness for remaining seconds. Warm interior light steady throughout — only his expression changes. 2D anime cel-shaded Shinkai aesthetic. Silent, aching, revealing the hidden grief that was disguised as calm.
+NEGATIVE: rapid head turn, blinking multiple times, eyes closing, morphing face, mouth visible, obvious smile visible in eyes, exaggerated sadness face, photorealism, style shift.
+
+LITERARY MOTIF: "Él continuó mirándola apaciblemente, ella bajó la cabeza y se dirigió hacia la entrada. Él cambió su sonrisa por una mueca triste y vacía; ella ya no lo veía, no tenía por qué fingir" (Parte III). This is the mask-falls-when-not-observed beat — the emotional core of the hook.
 
 ---
 

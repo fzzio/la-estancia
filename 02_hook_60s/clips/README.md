@@ -28,3 +28,16 @@ Kling free ~66 créditos/día. Standard 5s ≈ 10 créditos. 13 clips × 10 = 13
 ## Frame 13 pendiente
 
 El logo (`frame_13.png`) todavía no está generado. Cuando lo tengas, el clip 13 se anima con un fade in simple (2s). Prompt ya listo en `13_logo.txt` de este folder — solo esperando la imagen base.
+
+## Enriquecimiento por motivos literarios (2026-07-29)
+
+Los clips 1, 3, 4, 7A, 8 y 10 fueron enriquecidos con motivos específicos del PDF original ("La estancia") para reforzar la sensación buscada más allá del beat básico:
+
+- **Clip 1**: micro-gesto de mano al pecho izquierdo (motif de dolor de Parte I)
+- **Clip 3**: té tibio (no caliente), ceremonia ritual de vieja receta (Parte II)
+- **Clip 4**: ira contenida + dinámica fuerte-suave del piano (Parte I "fuerte y oscura")
+- **Clip 7A**: máscara emocional que cae cuando ella no lo ve (Parte III, beat literario clave)
+- **Clip 8**: pasos progresivamente más lentos como sobre brasas (Parte III)
+- **Clip 10**: gap de 2-3mm entre mano de Rocío y la perilla + cabeza gacha de Orión (Partes III-IV)
+
+Cada uno lleva ahora una sección `LITERARY MOTIF:` al final del prompt que explica el pasaje. Si Kling no interpreta bien la instrucción compleja, quita la sección `LITERARY MOTIF:` y deja solo el motion prompt — la IA a veces se confunde con contexto de más.
