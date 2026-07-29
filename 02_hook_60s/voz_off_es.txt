@@ -1,0 +1,23 @@
+HERRAMIENTA: ElevenLabs (https://elevenlabs.io)
+VOZ: Adam o Antoni (probar ambas, elegir la más cálida grave)
+PARÁMETROS: Stability 65%, Similarity 75%, Style Exaggeration 15%, Speed 0.92x
+ESTILO DE LECTURA: susurrado, íntimo, melancolía contenida, pausas de 1-2 segundos entre líneas
+IDIOMA: Spanish (Latin American, neutral)
+
+GUION (grabar cada línea como archivo separado o con marcadores de silencio):
+
+Hay dolores... que uno aprende a disimular.
+
+Ella preparó su té favorito. Como todas las tardes.
+
+Él tocaba una melodía que no había compuesto todavía.
+
+Y ella... ya había preparado sus maletas hace tiempo.
+
+Y él comprendió.
+
+Que el amor... también puede empacar en silencio.
+
+Y a veces el amor se queda... un segundo tarde.
+
+NOTA: exportar como MP3 320kbps. Guardar como voz_off_es.mp3 en la carpeta de audio del proyecto.

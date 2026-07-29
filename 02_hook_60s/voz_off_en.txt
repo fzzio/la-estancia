@@ -1,0 +1,23 @@
+TOOL: ElevenLabs (https://elevenlabs.io)
+VOICE: Adam or Antoni (test both, choose the warmest and deepest)
+PARAMS: Stability 65%, Similarity 75%, Style Exaggeration 15%, Speed 0.92x
+DELIVERY STYLE: whispered, intimate, contained melancholy, 1-2 second pauses between lines
+LANGUAGE: English (soft neutral American)
+
+SCRIPT (record each line as a separate file or with silence markers):
+
+There are wounds... one learns to hide.
+
+She made his favorite tea. Like every afternoon.
+
+He played a melody he hadn't written yet.
+
+And she... had packed her bags long ago.
+
+And he understood.
+
+That love, too, can pack in silence.
+
+And sometimes love arrives... one second too late.
+
+NOTE: export as MP3 320kbps. Save as voz_off_en.mp3 in the project audio folder.

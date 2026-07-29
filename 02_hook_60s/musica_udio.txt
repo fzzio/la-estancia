@@ -1,0 +1,16 @@
+TOOL: Udio (https://udio.com) - free beta tier
+MODE: Instrumental only, no vocals
+DURATION: 60 seconds (may require "extend" if initial generation is shorter)
+KEEP THIS FILE AS THE MAIN THEME (leitmotiv). Reusar variaciones para los 10 episodios de La Estancia.
+
+PROMPT (paste in Udio "Custom" mode):
+
+Instrumental piano solo, melancholy waltz-like, 19th century European chamber style, single upright piano, tempo starts at 45bpm and slowly rises to 65bpm, minor key (D minor or A minor), long sustained low note at second 0, tender melody emerges around second 11, brief cello enters at second 24 for tension, complete silence break between seconds 34 and 41 (leave empty for SFX), returns with a wounded piano phrase at 41, resolves on suspended chord at 53, final low note fade out at 58. Total 60 seconds. Reference: Yiruma "River Flows in You" meets Your Lie in April "Watashi no Uso" restraint.
+
+STYLE TAGS (add in Udio's tag field):
+piano, melancholy, romantic, cinematic, minimalist, chamber music, 19th century, sad, contained emotion, Shinkai soundtrack
+
+NOTAS:
+- Generar 3-4 variaciones. Elegir la más CONTENIDA (menos dramática).
+- Si Udio no respeta el silencio 34-41s, cortarlo manualmente en CapCut.
+- Descargar como MP3 320kbps, nombrar musica_principal.mp3.

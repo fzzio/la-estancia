@@ -1,0 +1,10 @@
+TOOL: Krea.ai (free tier). Set aspect ratio to 9:16 vertical in settings BEFORE generating.
+
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+
+PROMPT:
+Anime illustration in Makoto Shinkai style, close-up of a young man's both hands playing an aged upright piano in a 19th century European interior, left hand on the lower keys and right hand on the higher keys, both hands clearly visible and separated, framed from the wrist forward only (no forearm dominating the shot), fingers noticeably shorter than average as a distinctive character trait, slender delicate anime-style fingers with clean line art, a very soft motion blur ghost on the index finger of the right hand as if trembling faintly (subtle, on that single finger only), yellowed ivory keys with slight wear, warm afternoon golden hour light spilling from a tall window on the right, dust particles floating in the light beam painted as soft glowing dots, background softly out of focus showing a bookshelf with leather-bound books, a gilded framed painting, a victorian chair, and a heavy curtain, cinematic composition at keyboard level, subtle film grain overlay, melancholic mood, vertical 9:16 composition.
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, CoMix Wave Films, hand-drawn, illustration, delicate anime anatomy.
+
+Negative: photorealism, 3D render, CGI, live action, realistic skin texture, DSLR photograph, hyperrealistic, giant hands, oversized forearm, thick fingers, deformed anatomy, disproportionate limbs, extra fingers, missing fingers, square composition, landscape composition.

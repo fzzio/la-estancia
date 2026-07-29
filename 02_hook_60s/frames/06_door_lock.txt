@@ -1,0 +1,10 @@
+TOOL: Nano Banana (Google AI Studio, use gemini-3.1-flash-image full, NOT lite) or Krea.ai. Aspect ratio: 9:16 vertical preferred, 1:1 aceptable (close-up centrado sobrevive crop).
+
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+
+PROMPT:
+Anime illustration in Makoto Shinkai style, extreme close-up of an antique brass door lock and handle mounted on a heavy dark wooden door with visible wood grain, iron nail heads, and slight scratches from age, the camera very close and slightly tilted from a low angle as if the door is vibrating from an implied knock impact, the brass has aged patina and dull warm reflections, warm interior candle-like lighting from the upper left creating dramatic long shadows on the wood texture, dust particles floating in a soft light beam painted as tiny glowing dots, 19th century European craftsmanship visible in every detail, tense expectant composition, subtle film grain overlay, vertical 9:16 composition.
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, CoMix Wave Films, hand-drawn, illustration, antique brass, aged wood, dramatic shadow, tense close-up.
+
+Negative: photorealism, 3D render, CGI, live action, DSLR photograph, hyperrealistic, modern door handle, modern hardware, digital lock, sleek design, deformed shape, Studio Ghibli style, landscape composition.

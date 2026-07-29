@@ -1,0 +1,10 @@
+TOOL: Nano Banana (Google AI Studio, use gemini-3.1-flash-image full) o Krea. Aspect ratio: 16:9 horizontal.
+
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+
+PROMPT:
+Anime illustration in Makoto Shinkai style, medium close-up of a heavy dark wooden door partially open (slightly ajar), showing a warm golden light spilling in through the crack from outside, the light beam creating a bright diagonal shaft across the darker interior, dust particles visible floating in the light beam painted as tiny glowing dots, the door has visible wood grain and iron nail heads (same 19th century style as frame 06), a bit of an antique brass hinge visible on the frame, warm interior candle-like lighting on the near side of the door, tense anticipation, subtle film grain overlay, horizontal composition (to be cropped later into triptych).
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, hand-drawn, dramatic light beam, dust particles, aged wood, warm interior.
+
+Negative: photorealism, 3D render, CGI, live action, DSLR photograph, hyperrealistic, modern door, sleek design, Studio Ghibli style.

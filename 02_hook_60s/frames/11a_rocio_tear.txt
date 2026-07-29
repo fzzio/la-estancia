@@ -1,0 +1,4 @@
+REFERENCE IMAGE: attach rocio_ref.png as input in Nano Banana (or use --cref URL in Midjourney).
+
+PROMPT:
+Anime style Makoto Shinkai aesthetic, extreme close-up of the woman from the reference image's dark almond eyes behind thin rectangular glasses, turning sideways to the right, a single crystalline tear caught mid-fall on her right cheek, expression of deep sorrow, warm interior light reflected in her pupils, subtle film grain, horizontal composition to be cropped. No photorealism.

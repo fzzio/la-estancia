@@ -1,0 +1,11 @@
+TOOL: Krea.ai. Aspect ratio: 9:16 vertical OBLIGATORIO (composición ambiental con cielo dramático).
+REFERENCE IMAGE: attach orion_ref.png as input.
+
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+
+PROMPT:
+Anime illustration in Makoto Shinkai style, medium shot of the young man from the reference image (Orión — a 27 year old bohemian musician with light warm ivory skin, short black hair with soft forehead fringe, thin rectangular black glasses, wearing a mid-19th century European musician outfit: cream linen shirt with high mandarin collar, dark charcoal waistcoat partially unbuttoned, dark silk cravat knotted loosely at the neck, dark charcoal high-waisted trousers), seated on an aged wooden stool playing an old upright piano, seen from a three-quarter side angle from the left, his eyes tightly closed with brow deeply furrowed in emotional pain, one hand clutching his chest lightly over his heart while the other rests on the piano keys, a tall arched open window immediately behind him revealing a dramatic hyper-detailed Shinkai-style sunset sky with layered clouds transitioning from deep gray to amber to blood red, silhouette of a 19th century European seaside village visible in the far distance through the window, warm interior lighting on his face contrasting with the sunset outside, dust particles floating around him in the light beam, cinematic melancholic composition, subtle film grain overlay, vertical 9:16 composition.
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, CoMix Wave Films, hand-drawn, illustration, dramatic Shinkai sunset sky, layered clouds, cinematic melancholy.
+
+Negative: photorealism, 3D render, CGI, live action, realistic skin texture, DSLR photograph, hyperrealistic, modern clothing, t-shirt, jeans, deformed anatomy, extra fingers, Studio Ghibli style, square composition, landscape composition, grand piano (must be UPRIGHT piano).

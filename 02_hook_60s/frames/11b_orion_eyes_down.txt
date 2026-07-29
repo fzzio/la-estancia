@@ -1,0 +1,11 @@
+TOOL: Nano Banana (Krea free sin cuota). Aspect ratio: 9:16 vertical o 1:1 (se recorta luego en split junto a 11a).
+REFERENCE IMAGE: attach orion_ref.png (para consistencia facial + pelo).
+
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+
+PROMPT:
+Anime illustration in Makoto Shinkai style, extreme close-up of the eyes of the young man from the reference image (Orión the pianist with tousled dark brown hair falling softly over his forehead), the frame tightly cropped from mid-forehead to upper cheek showing ONLY his eyes, his gaze cast downward toward the floor in resigned defeat (eyelids lowered, lashes shadowing the iris), his dark amber-brown iris catching only a faint sliver of warm afternoon golden light with the same wet reflective glossy shimmer typical of Shinkai emotional close-ups, no tear but the glassy sheen of held-back grief, faint dark circles under the eyes suggesting sleepless nights, his ivory golden skin slightly flushed, soft strands of his tousled brown hair falling into the top of the frame partially veiling one eye, warm 19th century interior soft golden hour light spilling from the left side (opposite direction of frame 11a to mirror the composition) creating a gentle warm rim on his lashes, out of focus warm wooden interior tones softening the background, unbearable quiet resignation and heartbreak, cinematic melancholy peak of the scene, subtle film grain overlay, vertical 9:16 tight close-up composition.
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, hand-drawn, extreme close-up, glossy Shinkai eye, downcast gaze, warm rim light, emotional peak.
+
+Negative: photorealism, 3D render, CGI, live action, DSLR photograph, hyperrealistic, deformed eyes, asymmetric eyes, extra eyes, missing eye, oversized eye, cartoon Disney style, chibi, Studio Ghibli style, glasses, tear, crying, square composition, landscape composition, full face visible, mouth visible, nose fully visible, direct eye contact with camera.

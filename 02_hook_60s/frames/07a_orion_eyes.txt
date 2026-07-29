@@ -1,0 +1,11 @@
+TOOL: Krea.ai (mejor en close-ups de rostro/ojos). Aspect ratio: 16:9 horizontal (será cropeada en CapCut al apilarse en triptych vertical).
+REFERENCE IMAGE: attach orion_ref.png.
+
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+
+PROMPT:
+Anime illustration in Makoto Shinkai style, extreme close-up of the young man from the reference image's face focused on his dark expressive eyes, only the eye area visible (from mid-forehead to upper cheekbones), his thin rectangular black-framed glasses partially in frame at the edges, eyes looking sideways to the right with an expression of anguish and helplessness, a subtle glisten of unshed emotion in the corner of one eye, warm interior golden hour lighting reflected softly in his pupils creating tiny highlights, delicate anime line art, clean cel shading on skin, ivory warm skin tone, subtle film grain overlay, horizontal composition (to be cropped later into triptych).
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, hand-drawn eye close-up, emotional anime eyes, delicate line art.
+
+Negative: photorealism, 3D render, CGI, live action, realistic skin texture, DSLR photograph, hyperrealistic, deformed eyes, cross-eyed, Studio Ghibli style.

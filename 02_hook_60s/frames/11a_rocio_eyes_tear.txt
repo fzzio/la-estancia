@@ -1,0 +1,11 @@
+TOOL: Nano Banana (Krea free sin cuota). Aspect ratio: 9:16 vertical o 1:1 (se recorta luego en split).
+REFERENCE IMAGE: attach rocio_ref.png (para consistencia facial + gafas + pelo).
+
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+
+PROMPT:
+Anime illustration in Makoto Shinkai style, extreme close-up of the eyes of the woman from the reference image (Rocío the clockmaker with thin rectangular black glasses and wavy black hair falling loosely around her face), the frame tightly cropped from mid-forehead to upper cheek showing ONLY her eyes behind the thin rectangular glasses, her gaze slowly turning to the side glancing back to her left (as if hesitating to leave), her dark brown iris catching the warm afternoon golden light with a wet reflective glossy shimmer typical of Shinkai emotional close-ups, a single crystalline tear welling at the inner corner of her left eye just about to spill down her cheek, faint eyelashes delicately drawn, subtle blush on her ivory olive skin under the eyes, warm 19th century interior soft golden hour light spilling from the right side creating a gentle warm rim on her lashes and glasses frame, out of focus wisps of her wavy black hair softening the edges of the frame, unbearable quiet sorrow, cinematic melancholy peak of the scene, subtle film grain overlay, vertical 9:16 tight close-up composition.
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, hand-drawn, extreme close-up, glossy Shinkai eye, single tear, warm rim light, emotional peak.
+
+Negative: photorealism, 3D render, CGI, live action, DSLR photograph, hyperrealistic, deformed eyes, asymmetric eyes, extra eyes, missing eye, oversized eye, cartoon Disney style, chibi, Studio Ghibli style, sunglasses, thick frame glasses, modern glasses, square composition, landscape composition, full face visible, mouth visible, nose fully visible.

@@ -1,0 +1,11 @@
+TOOL: Krea.ai. Aspect ratio: 9:16 vertical OBLIGATORIO (composición ambiental backlit).
+REFERENCE IMAGE: attach rocio_ref.png as input.
+
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+
+PROMPT:
+Anime illustration in Makoto Shinkai style, wide shot of the woman from the reference image (Rocío — a 25 year old clockmaker with soft warm ivory skin, shoulder-length wavy black hair, thin rectangular black glasses, wearing a mid-19th century European clockmaker outfit: long floor-length dark charcoal skirt, dark charcoal waistcoat with brass buttons over cream high-collared blouse), rendered almost entirely as a dark silhouette standing perfectly still in the center of a warm 19th century interior room, seen from the front, her posture upright but emotionally resigned, two large brown leather suitcases with brass buckles and leather straps placed at her feet on the wooden plank floor, strongly backlit by a large arched window behind her showing a dramatic hyper-detailed Shinkai-style golden sunset outside (layered clouds in amber-orange-pink transitioning to deep coral), the sunlight streaming through creates a bright halo effect around her silhouette, dust motes floating in the sunbeam painted as tiny glowing dots, warm amber palette dominating the frame, high-contrast silhouette against the bright window, the interior in warm shadow, cinematic composition, melancholic mood, subtle film grain overlay, vertical 9:16 composition.
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, CoMix Wave Films, hand-drawn, illustration, dramatic Shinkai sunset sky, backlit silhouette, halo effect, warm amber palette.
+
+Negative: photorealism, 3D render, CGI, live action, realistic skin texture, DSLR photograph, hyperrealistic, modern clothing, jeans, sneakers, modern rolling suitcases with wheels (must be classic 19th century leather trunks), deformed anatomy, Studio Ghibli style, square composition, landscape composition.
