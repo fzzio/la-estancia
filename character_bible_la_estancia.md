@@ -58,7 +58,7 @@ Referencias: fotos reales de personas que inspiraron los relatos (autoría del a
 
 **Rasgos anime destilados:**
 - Piel porcelana pálida con matices peach suaves, calidad casi translúcida (encaja con "ángel encarnado" del texto, más clara que Rocío y Orión) — LOCKED: no cambiar aunque referencias fotográficas del autor sugieran tono más cálido
-- Cabello negro azabache muy largo (hasta mid-back), base lisa con más volumen y ondas suaves en las puntas; **highlights sutiles caramelo/castaño claro solo en las puntas** (efecto ombré natural muy suave, apenas perceptible a distancia)
+- Cabello negro azabache muy largo (hasta mid-back), base lisa con más volumen y ondas suaves en las puntas — color negro uniforme sin highlights (probamos ombré caramelo y la IA lo interpretó como decoloramiento, no sutileza)
 - Ojos negros profundos — el texto los describe como "negros azabaches, tan oscuros como el vacío mismo"; refuerzo visual clave; forma almendrada expresiva
 - Sin gafas — contraste visual con la relojera
 - Sonrisa cálida amplia con dientes visibles al sonreír, pero contenida en el aire (abierta y confiada, ni exagerada ni reservada)
@@ -72,7 +72,7 @@ Referencias: fotos reales de personas que inspiraron los relatos (autoría del a
 - Aire etéreo — el texto sugiere que él la percibe casi como "ángel encarnado"
 
 **Prompt base (para generación):**
-> anime style young woman, luminous porcelain-fair skin with soft peach undertones, very long black hair with subtle caramel/light chestnut ombré highlights only on the tips flowing past shoulders down to mid-back, softly waved at the ends with volume, deep dark obsidian almond-shaped eyes, no glasses, warm open smile with visible teeth yet composed, soft rounded features with gently full cheeks, natural soft curves build, wearing elegant coral/dusty rose empire-waist dress, ethereal aura, sunset lighting rojo/violeta, Makoto Shinkai aesthetic
+> anime style young woman, luminous porcelain-fair skin with soft peach undertones, very long uniform black hair flowing past shoulders down to mid-back, softly waved at the ends with volume, deep dark obsidian almond-shaped eyes, no glasses, warm open smile with visible teeth yet composed, soft rounded features with gently full cheeks, natural soft curves build, wearing elegant coral/dusty rose empire-waist dress, ethereal aura, sunset lighting rojo/violeta, Makoto Shinkai aesthetic
 
 ---
 
@@ -83,7 +83,7 @@ Riesgo: ambas tienen cabello negro largo y piel morena. Para que la audiencia la
 | Rasgo | Relojera | Nueva visita |
 |---|---|---|
 | Gafas | Sí, rectangulares finas | No |
-| Largo de cabello | Hombros, ondulado | Mid-back, liso con puntas onduladas y highlights caramelo sutiles |
+| Largo de cabello | Hombros, ondulado | Mid-back, negro uniforme liso con puntas onduladas |
 | Paleta ropa | Oscuros + blanco | Claros + coral/durazno |
 | Tono de piel | Ivory cálida con matices olivo | Porcelana pálida con matices peach |
 | Postura | Rígida, precisa | Fluida, serena |
