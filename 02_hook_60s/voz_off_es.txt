@@ -1,23 +1,81 @@
 HERRAMIENTA: ElevenLabs (https://elevenlabs.io)
-VOZ: Adam o Antoni (probar ambas, elegir la más cálida grave)
-PARÁMETROS: Stability 65%, Similarity 75%, Style Exaggeration 15%, Speed 0.92x
-ESTILO DE LECTURA: susurrado, íntimo, melancolía contenida, pausas de 1-2 segundos entre líneas
-IDIOMA: Spanish (Latin American, neutral)
+FREE TIER: 10,000 caracteres/mes. Este script consume ~360 caracteres. Puedes generar 25+ takes.
 
-GUION (grabar cada línea como archivo separado o con marcadores de silencio):
+VOZ (elegir en este orden, quedarse con la más cálida grave):
+1. **Antoni** — cálida, íntima, ideal susurros (primera opción)
+2. **Adam** — grave profunda, dramática
+3. **Callum** — barítono suave, alternativa si Antoni suena joven
+4. **Daniel** — grave británica, mucho aire íntimo
 
-Hay dolores... que uno aprende a disimular.
+PARÁMETROS ElevenLabs:
+- Model: **Eleven Multilingual v2** (soporta ES latino con acento neutro)
+- Stability: **60-65%** (más bajo = más emocional, más alto = más plano; 60% es sweet spot para contenido melancólico)
+- Similarity: **75%**
+- Style Exaggeration: **15-20%** (subir en líneas más quebradas, bajar en las planas)
+- Speaker Boost: ON
+- Speed: **0.90-0.92x** (Multilingual v2 acepta speed slider en Studio)
 
-Ella preparó su té favorito. Como todas las tardes.
+IDIOMA: Español latino neutro (evitar acento castellano-Madrid)
 
-Él tocaba una melodía que no había compuesto todavía.
+ESTILO DE LECTURA: susurrado, íntimo, melancolía contenida, pausas 1-2s entre líneas. NO dramatizar. Piensa en confidencia al oído, no en narración de tráiler.
 
-Y ella... ya había preparado sus maletas hace tiempo.
+ESTRATEGIA GRABACIÓN: grabar CADA LÍNEA COMO ARCHIVO SEPARADO (1 archivo por línea). Después en CapCut alineas cada línea al timestamp de su beat. Motivo: si una línea sale mal, regeneras solo esa, no todo el guion. Además controlas pausas exactas.
 
-Y él comprendió.
+---
 
-Que el amor... también puede empacar en silencio.
+GUION CON TIMING Y EMOTION TAGS:
 
-Y a veces el amor se queda... un segundo tarde.
+**Línea 1** — timestamp 2.5s (sobre frame_02 Rocío reflejo)
+Emoción: susurro suave, contenido, primera declaración
+Texto: `Hay dolores... que uno aprende a disimular.`
+Notas ElevenLabs: pausa larga en los puntos suspensivos (marca con `...` o inserta `<break time="0.8s"/>` si usas SSML). Última palabra "disimular" desvanece.
+Style Exaggeration: 15%
 
-NOTA: exportar como MP3 320kbps. Guardar como voz_off_es.mp3 en la carpeta de audio del proyecto.
+**Línea 2** — timestamp 6.0s (sobre frame_03 té)
+Emoción: descripción tierna, íntima, sin peso dramático
+Texto: `Ella preparó su té favorito. Como todas las tardes.`
+Notas: entre las dos frases, pausa breve 0.5s. Tono descriptivo casi ritual.
+Style Exaggeration: 12%
+
+**Línea 3** — timestamp 11.0s (sobre frame_04 Orión piano)
+Emoción: nostalgia, quiebre sutil
+Texto: `Él tocaba una melodía que no había compuesto todavía.`
+Notas: acento leve en "todavía" — palabra clave, sostener la última "a".
+Style Exaggeration: 18%
+
+**Línea 4** — timestamp 16.0s (sobre frame_05 silueta maletas)
+Emoción: revelación silenciosa, casi confesión
+Texto: `Y ella... ya había preparado sus maletas hace tiempo.`
+Notas: pausa muy larga en los puntos suspensivos (1s+). "hace tiempo" con eco melancólico.
+Style Exaggeration: 20%
+
+**Línea 5** — timestamp 24.0s (sobre frame_07 triptych ojos)
+Emoción: afirmación seca, sin adorno
+Texto: `Y él comprendió.`
+Notas: dos palabras planas, casi resignadas. NO subir. Es el beat más duro.
+Style Exaggeration: 10%
+
+**Línea 6** — timestamp 29.0s (sobre frame_08 Rocío caminando)
+Emoción: metáfora dulce y dolorosa
+Texto: `Que el amor... también puede empacar en silencio.`
+Notas: la palabra "silencio" susurrada casi inaudible, cortada.
+Style Exaggeration: 22%
+
+**Línea 7** — timestamp 41.0s (sobre frame_10 mano al hombro)
+Emoción: cierre del hook, verdad definitiva
+Texto: `Y a veces el amor se queda... un segundo tarde.`
+Notas: pausa dramática en los puntos suspensivos (1.5s). "un segundo tarde" fragmentado — cada palabra con un mini-pausa entre sí.
+Style Exaggeration: 25%
+
+---
+
+POST-PROCESSING (en CapCut o Audacity antes de mezclar):
+1. Normalizar a -6dB peak
+2. Aplicar EQ: cut 200-300Hz -3dB (quita nasalidad), boost 4-6kHz +2dB (mejora inteligibilidad)
+3. Compresión ligera: ratio 3:1, threshold -18dB (evita picos en susurros)
+4. NO reverb (voz debe sonar íntima, no en catedral)
+5. Ducking cuando entra sobre música: bajar música -6dB durante voz
+
+EXPORTAR: MP3 320kbps, sample rate 48kHz.
+NOMBRE ARCHIVOS: `voz_es_L01.mp3`, `voz_es_L02.mp3`, ... `voz_es_L07.mp3`
+GUARDAR EN: `/Users/fabricioorrala/Documents/Fabricio/projects/lecturas/la_estancia/02_hook_60s/audio/`

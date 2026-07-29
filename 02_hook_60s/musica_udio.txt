@@ -1,16 +1,93 @@
-TOOL: Udio (https://udio.com) - free beta tier
-MODE: Instrumental only, no vocals
-DURATION: 60 seconds (may require "extend" if initial generation is shorter)
-KEEP THIS FILE AS THE MAIN THEME (leitmotiv). Reusar variaciones para los 10 episodios de La Estancia.
+HERRAMIENTA PRIMARIA: Udio (https://udio.com) - free tier ~10 tracks/día
+HERRAMIENTA FALLBACK: Suno (https://suno.com) - free tier ~10 tracks/día
 
-PROMPT (paste in Udio "Custom" mode):
+Este track es el LEITMOTIV del canal Bitácora — reusar variaciones para los 10 episodios de La Estancia. Invertir tiempo aquí paga en episodios futuros.
 
-Instrumental piano solo, melancholy waltz-like, 19th century European chamber style, single upright piano, tempo starts at 45bpm and slowly rises to 65bpm, minor key (D minor or A minor), long sustained low note at second 0, tender melody emerges around second 11, brief cello enters at second 24 for tension, complete silence break between seconds 34 and 41 (leave empty for SFX), returns with a wounded piano phrase at 41, resolves on suspended chord at 53, final low note fade out at 58. Total 60 seconds. Reference: Yiruma "River Flows in You" meets Your Lie in April "Watashi no Uso" restraint.
+---
 
-STYLE TAGS (add in Udio's tag field):
-piano, melancholy, romantic, cinematic, minimalist, chamber music, 19th century, sad, contained emotion, Shinkai soundtrack
+## OPCIÓN A — Udio (primera opción)
 
-NOTAS:
-- Generar 3-4 variaciones. Elegir la más CONTENIDA (menos dramática).
-- Si Udio no respeta el silencio 34-41s, cortarlo manualmente en CapCut.
-- Descargar como MP3 320kbps, nombrar musica_principal.mp3.
+MODE: Custom mode + Instrumental only + Manual mode
+DURATION: 60 segundos exactos (Udio genera 32s inicial, usar "Extend" o "Add section" para llegar a 60s)
+LYRICS FIELD: dejar vacío
+TAGS FIELD (copiar/pegar):
+`piano solo, melancholy, romantic, cinematic, minimalist, chamber music, 19th century, contained emotion, Shinkai soundtrack, Yiruma style, Watashi no Uso style, Yann Tiersen style, no drums, no percussion, no vocals`
+
+PROMPT (paste en Udio custom description):
+
+```
+Instrumental piano solo in D minor. Melancholy chamber music aesthetic, 19th century European sensibility, single upright piano. Tempo starts at 45bpm and slowly rises to 65bpm across 60 seconds.
+
+Structure:
+- Seconds 0-2: single sustained low D bass note, very quiet, breathy
+- Seconds 2-11: sparse right-hand melody emerges over sustained bass, tender and slow
+- Seconds 11-24: melody develops gently, left hand adds gentle rocking arpeggios
+- Seconds 24-34: brief cello line enters underneath (single legato voice) adding tension
+- Seconds 34-41: SILENCE / suspended sustain — leave empty space for SFX in edit
+- Seconds 41-53: wounded piano phrase returns, cello gone, tempo slightly slower
+- Seconds 53-58: resolves onto a suspended minor chord (unresolved feeling)
+- Seconds 58-60: single low D fades to silence
+
+Reference feel: Yiruma "River Flows in You" restraint meets "Your Lie in April" OST "Watashi no Uso" emotional weight. NO drums, NO percussion, NO vocals, NO synth pads.
+```
+
+---
+
+## OPCIÓN B — Suno (fallback si Udio no cierra)
+
+MODE: Custom mode + Instrumental only
+LENGTH: 60 segundos (Suno permite hasta 2min free)
+STYLE TAGS:
+`melancholy piano solo, cinematic, minimalist, 19th century chamber, Shinkai OST, contained emotion, sad romantic, no drums, no vocals, D minor`
+
+PROMPT (Suno):
+```
+Slow melancholy piano solo in D minor, 45bpm rising to 65bpm, single upright piano with brief cello counterpoint at seconds 24-34. Silence gap at seconds 34-41 for sound design. Wounded piano returns at 41, resolves on suspended chord. 60 seconds total, chamber intimate. Yiruma meets Yann Tiersen. Instrumental only.
+```
+
+---
+
+## OPCIÓN C — SoundRaw / AIVA (fallbacks adicionales)
+
+- **SoundRaw** (soundraw.io): permite ajustar timing por sección, control preciso pero calidad menor
+- **AIVA** (aiva.ai): más clásico chamber, free tier 3 tracks/mes
+
+---
+
+## PROCESO DE ELECCIÓN (crítico)
+
+1. Generar 3-4 variaciones en Udio con el mismo prompt (Udio da 2 tracks por click, generar 2 veces)
+2. Escuchar cada una **DE PIE, EN SILENCIO**, sin distracciones
+3. Criterios de selección (por orden de importancia):
+   - **Contención emocional**: ¿es dramático o contenido? Ganamos con contenido.
+   - **Silencio a los 34-41s**: ¿respeta el vacío? Si no, cortarlo manualmente en CapCut.
+   - **Resolución acorde suspendido**: ¿queda con sensación de no-cierre? Ganamos con no-cierre (el hook empuja al ep 1).
+   - **Melodía leitmotiv memorable**: ¿te queda pegada al minuto? Es criterio de canal, no solo hook.
+4. Elegir la MÁS CONTENIDA, no la más impactante. Este hook gana con quietud.
+
+---
+
+## POST-PROCESSING (en CapCut o Audacity)
+
+1. Si Udio genera 90s, cortar a 60s exactos
+2. Si no respeta el silencio 34-41s: cortar manualmente ese fragmento, insertar 7s de silencio absoluto
+3. Fade out final: 58-60s exponencial a silencio
+4. Normalizar a -14 LUFS (estándar streaming/social media)
+5. EQ suave: cut 60Hz -3dB (limpia rumble), boost 8-10kHz +1dB (aire)
+6. NO comprimir en exceso — el silencio y los picos suaves son parte del diseño emocional
+
+EXPORTAR: MP3 320kbps, sample rate 44.1kHz.
+NOMBRE ARCHIVO: `musica_principal_v1.mp3` (guardar variaciones descartadas como v2, v3 por si querés reciclar en episodios futuros)
+GUARDAR EN: `/Users/fabricioorrala/Documents/Fabricio/projects/lecturas/la_estancia/02_hook_60s/audio/`
+
+---
+
+## VARIACIONES PARA EPISODIOS FUTUROS (referencia)
+
+Cuando el leitmotiv esté locked, generar en Udio las siguientes variaciones sobre la misma progresión armónica:
+- **Variación reflexiva** (ep 1-3): solo piano + tempo 55bpm sostenido
+- **Variación turbulenta** (ep 4-6, escena tempestad): añadir cellos graves + tempo 70bpm agitado
+- **Variación reconstructiva** (ep 7-9): mismo piano pero mayor (D mayor), tempo 60bpm optimista contenido
+- **Variación esperanzada** (ep 10, encuentro Jazmín): piano + violín agudo + arpa muy tenue, tempo 50bpm etéreo
+
+Cada variación mantiene la melodía principal reconocible (leitmotiv del canal Bitácora).

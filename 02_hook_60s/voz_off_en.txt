@@ -1,23 +1,81 @@
 TOOL: ElevenLabs (https://elevenlabs.io)
-VOICE: Adam or Antoni (test both, choose the warmest and deepest)
-PARAMS: Stability 65%, Similarity 75%, Style Exaggeration 15%, Speed 0.92x
-DELIVERY STYLE: whispered, intimate, contained melancholy, 1-2 second pauses between lines
-LANGUAGE: English (soft neutral American)
+FREE TIER: 10,000 characters/month. This script consumes ~340 characters. You can regenerate 25+ takes.
 
-SCRIPT (record each line as a separate file or with silence markers):
+VOICE (try in this order, keep the warmest deepest):
+1. **Antoni** — warm, intimate, ideal for whispers (first pick)
+2. **Adam** — deep dramatic, more masculine gravitas
+3. **Callum** — soft baritone, alternative if Antoni sounds too young
+4. **Daniel** — British deep, lots of intimate air
 
-There are wounds... one learns to hide.
+ElevenLabs PARAMS:
+- Model: **Eleven Multilingual v2** (best English handling, allows speed slider)
+- Stability: **60-65%** (lower = more emotional, higher = flatter; 60% is the sweet spot for melancholy)
+- Similarity: **75%**
+- Style Exaggeration: **15-20%** (raise on broken lines, lower on flat lines)
+- Speaker Boost: ON
+- Speed: **0.90-0.92x**
 
-She made his favorite tea. Like every afternoon.
+LANGUAGE: English soft neutral American (NOT hard newscaster tone)
 
-He played a melody he hadn't written yet.
+DELIVERY STYLE: whispered, intimate, contained melancholy, 1-2 second pauses between lines. DO NOT dramatize. Think of it as a confession whispered in the listener's ear, not a movie trailer voiceover.
 
-And she... had packed her bags long ago.
+RECORDING STRATEGY: record EACH LINE AS A SEPARATE FILE (1 file per line). Then in CapCut you align each line to its beat timestamp. Why: if a line comes out wrong, you regenerate only that one, not the whole script. Also controls exact pauses.
 
-And he understood.
+---
 
-That love, too, can pack in silence.
+SCRIPT WITH TIMING AND EMOTION TAGS:
 
-And sometimes love arrives... one second too late.
+**Line 1** — timestamp 2.5s (over frame_02 Rocío reflection)
+Emotion: soft whisper, contained, opening declaration
+Text: `There are wounds... one learns to hide.`
+Notes ElevenLabs: long pause on the ellipsis (mark with `...` or insert `<break time="0.8s"/>` if using SSML). Last word "hide" fades out.
+Style Exaggeration: 15%
 
-NOTE: export as MP3 320kbps. Save as voz_off_en.mp3 in the project audio folder.
+**Line 2** — timestamp 6.0s (over frame_03 tea)
+Emotion: tender description, intimate, no dramatic weight
+Text: `She made his favorite tea. Like every afternoon.`
+Notes: brief pause 0.5s between the two sentences. Descriptive, almost ritual.
+Style Exaggeration: 12%
+
+**Line 3** — timestamp 11.0s (over frame_04 Orión piano)
+Emotion: nostalgia, subtle crack
+Text: `He played a melody he hadn't written yet.`
+Notes: slight stress on "yet" — key word, hold the final consonant.
+Style Exaggeration: 18%
+
+**Line 4** — timestamp 16.0s (over frame_05 silhouette suitcases)
+Emotion: silent revelation, almost a confession
+Text: `And she... had packed her bags long ago.`
+Notes: very long pause on the ellipsis (1s+). "long ago" with melancholy echo.
+Style Exaggeration: 20%
+
+**Line 5** — timestamp 24.0s (over frame_07 eyes triptych)
+Emotion: dry statement, no adornment
+Text: `And he understood.`
+Notes: two words flat, almost resigned. DO NOT rise. This is the hardest beat.
+Style Exaggeration: 10%
+
+**Line 6** — timestamp 29.0s (over frame_08 Rocío walking)
+Emotion: sweet painful metaphor
+Text: `That love, too, can pack in silence.`
+Notes: the word "silence" whispered almost inaudibly, cut short.
+Style Exaggeration: 22%
+
+**Line 7** — timestamp 41.0s (over frame_10 hand on shoulder)
+Emotion: closing beat, definitive truth
+Text: `And sometimes love arrives... one second too late.`
+Notes: dramatic pause on the ellipsis (1.5s). "one second too late" fragmented — each word with a micro-pause between them.
+Style Exaggeration: 25%
+
+---
+
+POST-PROCESSING (in CapCut or Audacity before mixing):
+1. Normalize to -6dB peak
+2. Apply EQ: cut 200-300Hz -3dB (removes nasality), boost 4-6kHz +2dB (improves intelligibility)
+3. Light compression: ratio 3:1, threshold -18dB (avoids peaks in whispers)
+4. NO reverb (voice must sound intimate, not cathedral)
+5. Ducking when over music: lower music -6dB during voice
+
+EXPORT: MP3 320kbps, sample rate 48kHz.
+FILE NAMES: `voz_en_L01.mp3`, `voz_en_L02.mp3`, ... `voz_en_L07.mp3`
+SAVE TO: `/Users/fabricioorrala/Documents/Fabricio/projects/lecturas/la_estancia/02_hook_60s/audio/`
