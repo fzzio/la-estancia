@@ -57,13 +57,13 @@ Referencias: fotos reales de personas que inspiraron los relatos (autoría del a
 **Nombre:** Jazmín (revelado solo al final del ep 10; en episodios previos permanece "la desconocida")
 
 **Rasgos anime destilados:**
-- Piel porcelana pálida con matices peach suaves, calidad casi translúcida (encaja con "ángel encarnado" del texto, más clara que Rocío y Orión)
-- Cabello negro azabache, muy largo, liso o levemente ondulado, cae sobre los hombros
-- Ojos negros profundos — el texto los describe como "negros azabaches, tan oscuros como el vacío mismo"; refuerzo visual clave
+- Piel porcelana pálida con matices peach suaves, calidad casi translúcida (encaja con "ángel encarnado" del texto, más clara que Rocío y Orión) — LOCKED: no cambiar aunque referencias fotográficas del autor sugieran tono más cálido
+- Cabello negro azabache muy largo (hasta mid-back), base lisa con más volumen y ondas suaves en las puntas; **highlights sutiles caramelo/castaño claro solo en las puntas** (efecto ombré natural muy suave, apenas perceptible a distancia)
+- Ojos negros profundos — el texto los describe como "negros azabaches, tan oscuros como el vacío mismo"; refuerzo visual clave; forma almendrada expresiva
 - Sin gafas — contraste visual con la relojera
-- Sonrisa serena, cálida, contenida
-- Rasgos delicados, elegante
-- Complexión esbelta
+- Sonrisa cálida amplia con dientes visibles al sonreír, pero contenida en el aire (abierta y confiada, ni exagerada ni reservada)
+- Rasgos cálidos, mejillas suaves ligeramente llenitas, cara redondeada gentil (no facciones afiladas)
+- Complexión con curvas suaves naturales, no delgada extrema
 - Vestuario (siglo XIX europeo, era romántica, estética etérea): vestido largo hasta el piso talle imperio, tela ligera fluida (seda ligera o muselina) en coral pálido/rosa polvo, escote modesto cuadrado o redondo con encaje marfil fino, mangas cortas abullonadas al hombro que se ajustan al antebrazo con puños de perlas diminutas, listón marfil delicado en la cintura alta, aretes de perla, cadena de plata delgada con piedra pequeña, zapatillas crema ocultas bajo el vestido, cabello suelto. **NUNCA vestimenta moderna.**
 
 **Personalidad visual:**
@@ -72,7 +72,7 @@ Referencias: fotos reales de personas que inspiraron los relatos (autoría del a
 - Aire etéreo — el texto sugiere que él la percibe casi como "ángel encarnado"
 
 **Prompt base (para generación):**
-> anime style young woman, luminous brown skin, very long black straight hair flowing over shoulders, deep dark obsidian eyes, no glasses, serene warm contained smile, delicate elegant features, slender graceful build, wearing elegant light dress (or long simple tunic dress for window scenes), ethereal aura, sunset lighting rojo/violeta, Makoto Shinkai aesthetic
+> anime style young woman, luminous porcelain-fair skin with soft peach undertones, very long black hair with subtle caramel/light chestnut ombré highlights only on the tips flowing past shoulders down to mid-back, softly waved at the ends with volume, deep dark obsidian almond-shaped eyes, no glasses, warm open smile with visible teeth yet composed, soft rounded features with gently full cheeks, natural soft curves build, wearing elegant coral/dusty rose empire-waist dress, ethereal aura, sunset lighting rojo/violeta, Makoto Shinkai aesthetic
 
 ---
 
@@ -83,10 +83,13 @@ Riesgo: ambas tienen cabello negro largo y piel morena. Para que la audiencia la
 | Rasgo | Relojera | Nueva visita |
 |---|---|---|
 | Gafas | Sí, rectangulares finas | No |
-| Largo de cabello | Hombros, ondulado | Muy largo, liso |
+| Largo de cabello | Hombros, ondulado | Mid-back, liso con puntas onduladas y highlights caramelo sutiles |
 | Paleta ropa | Oscuros + blanco | Claros + coral/durazno |
 | Tono de piel | Ivory cálida con matices olivo | Porcelana pálida con matices peach |
 | Postura | Rígida, precisa | Fluida, serena |
+| Sonrisa | Amplia cálida controlada | Amplia abierta con dientes visibles, confiada |
+| Rasgos faciales | Almendrados suaves | Cara redondeada con mejillas llenitas |
+| Complexión | Delgada media | Curvas suaves naturales |
 | Iluminación | Fría, azulada | Cálida, dorada/violeta |
 | Ojos | Almendrados dulces | Muy oscuros profundos |
 
