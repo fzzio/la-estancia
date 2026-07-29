@@ -29,8 +29,8 @@ Actualizar marcando `[x]` cuando cada paso quede aprobado. Fecha en formato `202
 - [x] `frame_04.png` — Orión piano ojos cerrados. Generado en Krea.ai. Fecha: 2026-07-28
 - [x] `frame_05.png` — Rocío silueta maletas. Generado en Nano Banana (rindió excelente en shot silueta). Bonus: añadió engranajes + reloj de pared (refuerza que es relojera). Fecha: 2026-07-28
 - [x] `frame_06.png` — puerta cerradura antigua. Generado. Fecha: 2026-07-29
-- [x] `frame_07a.png` — ojos Orión. Nano Banana. Fecha: 2026-07-29
-- [x] `frame_07b.png` — ojos Rocío (mejor render del triptych). Nano Banana. Fecha: 2026-07-29
+- [x] `frame_07a.png` — ojos Orión. Nano Banana. Regenerado 2026-07-29 (v2): fondo warm 19th century interior con paneles madera + rim light dorada + continuidad con 11b/12. v1 tenía fondo beige plano. Fecha: 2026-07-29
+- [x] `frame_07b.png` — ojos Rocío. Nano Banana. Regenerado 2026-07-29 (v2): fondo warm 19th century interior con engranajes + relojes de bolsillo + cadenas visibles (refuerza motif relojera). Continuidad clavada con 11a/12. v1 tenía fondo beige plano. Fecha: 2026-07-29
 - [x] `frame_07c.png` — puerta entreabierta. Nano Banana. Fecha: 2026-07-29
 - [x] `frame_08.png` — Rocío caminando por madera. Nano Banana. Bonus: engranajes taller de relojera visibles (consistente con frame_05). Fecha: 2026-07-29
 - [x] `frame_09.png` — té slow motion (pico visual del hook). Full body funciona mejor que close-up. Fecha: 2026-07-29

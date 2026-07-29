@@ -1,11 +1,15 @@
-TOOL: Krea.ai (mejor en close-ups de rostro/ojos). Aspect ratio: 16:9 horizontal.
+TOOL: Nano Banana. Aspect ratio: 9:16 vertical.
 REFERENCE IMAGE: attach rocio_ref.png.
 
-STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second). NOT Studio Ghibli, NOT photorealistic.
 
 PROMPT:
-Anime illustration in Makoto Shinkai style, extreme close-up of the young woman from the reference image's face focused on her dark expressive eyes, only the eye area visible (from mid-forehead to upper cheekbones), her thin rectangular black-framed glasses fully in frame, eyes downcast looking toward the floor, a single unshed tear glistening on the lower lash of her right eye about to fall, expression of quiet sorrow and resignation, warm interior golden hour lighting reflected softly in her pupils, delicate anime line art, clean cel shading on skin, ivory warm skin tone with olive undertones, subtle film grain overlay, horizontal composition (to be cropped later into triptych).
+Anime illustration in Makoto Shinkai style, close-up of the character from the reference image (Rocío the adult clockmaker with wavy shoulder-length black hair, thin rectangular black-framed glasses). The frame is cropped tightly around her eye area (from forehead down to upper cheeks), showing her eyes behind the glasses. Her gaze is directed gently downward in a soft thoughtful expression. A tiny gentle sparkle of light glistens on the lower lash of her right eye (like a small dewdrop or morning shimmer). Her dark brown iris catches warm golden hour light with a soft glossy shimmer typical of Shinkai close-ups. Faint eyelashes delicately drawn.
 
-Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, hand-drawn eye close-up, emotional anime eyes, delicate line art, unshed tear.
+BACKGROUND: warm 19th century interior blurred behind her — soft out-of-focus wooden panels, hints of a clockmaker workshop (aged mechanical gears, pocket-watch chains) blurred deep behind her, warm ambient golden-hour light coming from a side window creating a gentle rim on her hair and glasses frame, faint dust particles floating in the light beam as tiny glowing dots, warm amber and rich chocolate brown color palette (classic Shinkai warm interior). The background must feel like a Shinkai warm room, matching frames 11a and 11b visual continuity. Avoid plain flat backgrounds.
 
-Negative: photorealism, 3D render, CGI, live action, realistic skin texture, DSLR photograph, hyperrealistic, deformed eyes, cross-eyed, Studio Ghibli style.
+Delicate anime line art, clean cel shading on skin, warm ivory olive skin tone, subtle film grain overlay, vertical 9:16 tight close-up composition, cinematic warm mood.
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, hand-drawn eye close-up, warm interior blur background, golden hour rim light, dust particles, glossy Shinkai eye.
+
+Negative: photorealism, 3D render, CGI, live action, realistic skin texture, DSLR photograph, hyperrealistic, deformed eyes, asymmetric eyes, cross-eyed, extra eyes, missing eye, cartoon Disney style, chibi, Studio Ghibli style, plain beige background, plain cream background, flat background, empty background, studio backdrop, solid color background, seamless paper background, horizontal composition, square composition, letterbox bars, black bars, tear rolling down cheek, crying face, mouth visible.

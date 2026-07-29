@@ -1,11 +1,15 @@
-TOOL: Krea.ai (mejor en close-ups de rostro/ojos). Aspect ratio: 16:9 horizontal (será cropeada en CapCut al apilarse en triptych vertical).
+TOOL: Nano Banana. Aspect ratio: 9:16 vertical.
 REFERENCE IMAGE: attach orion_ref.png.
 
-STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second, Weathering with You, The Garden of Words). NOT Studio Ghibli, NOT photorealistic, NOT 3D render, NOT CGI, NOT live action.
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second). NOT Studio Ghibli, NOT photorealistic.
 
 PROMPT:
-Anime illustration in Makoto Shinkai style, extreme close-up of the young man from the reference image's face focused on his dark expressive eyes, only the eye area visible (from mid-forehead to upper cheekbones), his thin rectangular black-framed glasses partially in frame at the edges, eyes looking sideways to the right with an expression of anguish and helplessness, a subtle glisten of unshed emotion in the corner of one eye, warm interior golden hour lighting reflected softly in his pupils creating tiny highlights, delicate anime line art, clean cel shading on skin, ivory warm skin tone, subtle film grain overlay, horizontal composition (to be cropped later into triptych).
+Anime illustration in Makoto Shinkai style, close-up of the character from the reference image (Orión the adult pianist with tousled dark brown hair falling over his forehead, thin rectangular black-framed glasses). The frame is cropped tightly around his eye area (from forehead down to upper cheeks), showing his eyes behind the glasses. His gaze is turned sideways to the right in a quiet contemplative expression. A soft glossy reflection catches warm golden hour light in his amber-brown iris. Faint eyelashes delicately drawn.
 
-Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, hand-drawn eye close-up, emotional anime eyes, delicate line art.
+BACKGROUND: warm 19th century interior blurred behind him — soft out-of-focus wooden panels, hints of aged furniture, warm ambient golden-hour light coming from a side window creating a gentle rim on his hair and glasses frame, faint dust particles floating in the light beam as tiny glowing dots, warm amber and rich chocolate brown color palette (classic Shinkai warm interior). The background must feel like a Shinkai warm room, matching frames 11a and 11b visual continuity. Avoid plain flat backgrounds.
 
-Negative: photorealism, 3D render, CGI, live action, realistic skin texture, DSLR photograph, hyperrealistic, deformed eyes, cross-eyed, Studio Ghibli style.
+Delicate anime line art, clean cel shading on skin, warm ivory skin tone, subtle film grain overlay, vertical 9:16 tight close-up composition, cinematic warm mood.
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, hand-drawn eye close-up, warm interior blur background, golden hour rim light, dust particles.
+
+Negative: photorealism, 3D render, CGI, live action, realistic skin texture, DSLR photograph, hyperrealistic, deformed eyes, asymmetric eyes, cross-eyed, extra eyes, missing eye, cartoon Disney style, chibi, Studio Ghibli style, plain beige background, plain cream background, flat background, empty background, studio backdrop, solid color background, seamless paper background, horizontal composition, square composition, letterbox bars, black bars, tear, crying.
