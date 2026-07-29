@@ -1,0 +1,14 @@
+CLIP 3 — Té sobre mesa (6.0-11.0s)
+
+FIRST FRAME: assets/frames_output/frame_03.png
+LAST FRAME: (opcional, no requerido)
+DURATION: 5.0s
+ASPECT RATIO: 9:16 vertical
+MODE: Kling 3.0 Standard
+CAMERA CONTROL: STATIC overhead (locked off, no movement)
+
+MOTION PROMPT:
+Anime-style overhead top-down close-up of a delicate white porcelain teacup on an aged wooden table. Steam rises gently and slowly from the amber tea inside the cup (thin white wisps curling upward continuously and dissipating). A young woman's hand (ivory olive skin, slender fingers) rests beside the cup — her fingers show a faint involuntary tremble (very subtle, 2mm micro-vibration on the pinky and ring finger). No other motion in the frame. Warm afternoon golden sunlight steady across the wooden surface. Camera absolutely static overhead. 2D anime cel-shaded aesthetic preserved, Makoto Shinkai style. Tender, quiet, melancholy.
+
+NEGATIVE PROMPT:
+distorted hand, morphing fingers, extra fingers, cup falling, cup moving, table shaking, exaggerated steam, thick smoke, hand withdrawing fully out of frame, photorealism, 3D CGI, live action, style shift, camera drift.

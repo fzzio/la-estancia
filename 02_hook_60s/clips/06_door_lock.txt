@@ -1,0 +1,14 @@
+CLIP 6 — Puerta cerradura antigua (20.0-24.0s)
+
+FIRST FRAME: assets/frames_output/frame_06.png
+LAST FRAME: (opcional, no requerido)
+DURATION: 4.0s
+ASPECT RATIO: 9:16 vertical
+MODE: Kling 3.0 Standard
+CAMERA CONTROL: handheld subtle shake (camera vibrates gently on impact frames — see below)
+
+MOTION PROMPT:
+Anime-style extreme close-up of an antique brass door lock on a heavy dark wooden door. The door is completely still for the first second. Then a sharp knock: the entire frame vibrates briefly for 0.3s (subtle handheld camera shake ~5px displacement, plus faint dust particles jarred loose from the wood grain). Return to stillness for 0.8s. Second knock: another vibration burst (identical pattern). Return to stillness for the remainder. Warm interior candle-like lighting stays constant throughout. The brass lock reflects the warm light. 2D anime cel-shaded aesthetic preserved, Makoto Shinkai style. Tense, ominous, waiting.
+
+NEGATIVE PROMPT:
+door opening, door breaking, hand appearing, lock turning, continuous shaking, wobbling camera, morphing door, photorealism, 3D CGI, live action, style shift, exaggerated vibration, earthquake.

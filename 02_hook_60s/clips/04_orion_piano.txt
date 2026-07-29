@@ -1,0 +1,14 @@
+CLIP 4 — Orión piano ojos cerrados (11.0-16.0s)
+
+FIRST FRAME: assets/frames_output/frame_04.png
+LAST FRAME: (opcional, no requerido)
+DURATION: 5.0s
+ASPECT RATIO: 9:16 vertical
+MODE: Kling 3.0 Standard
+CAMERA CONTROL: pull out slow (very gentle dolly back, ~5% zoom out over duration)
+
+MOTION PROMPT:
+Anime-style young man with tousled dark brown hair and thin rectangular glasses seated at an upright piano with eyes closed and brow gently furrowed. His hands move faintly on the keys with restrained musical motion (fingers pressing keys in soft slow rhythm — no big arm movements, just fingertip motion suggesting a slow melancholic melody). His head tilts down maybe 2 degrees over the duration. The dramatic Shinkai sunset sky visible through the window behind him gradually deepens in warm amber tones. Dust particles float slowly in the sunbeam. Camera performs an extremely gentle pull-out over the full duration (~5% zoom out). 2D anime cel-shaded aesthetic preserved throughout, Makoto Shinkai style. Melancholy, absorbed, silent.
+
+NEGATIVE PROMPT:
+distorted face, morphing hands, extra fingers, exaggerated arm motion, eyes opening, mouth open, singing, head snapping, sky changing color dramatically, photorealism, 3D CGI, live action, style shift, fast camera movement.

@@ -1,0 +1,38 @@
+CLIP 11 — Ojos girando + freeze final (46.0-53.0s)
+
+ESTRATEGIA: dos mini-clips en Kling que en CapCut se apilan en split composition + freeze final:
+
+---
+
+CLIP 11A — Ojos Rocío gira, lágrima cae, freeze
+FIRST FRAME: assets/frames_output/frame_11a.png
+DURATION: 7.0s (Kling 5s + CapCut ralentiza a 0.7x para llegar a 7s; freeze en último frame usando "hold last frame" 2s adicionales)
+ASPECT RATIO: 9:16 vertical
+CAMERA: extreme push-in slow (~5-7% zoom in over the animated portion, then absolute freeze)
+
+MOTION PROMPT:
+Anime-style extreme close-up of a young woman's eyes behind thin rectangular glasses. Over the first 3 seconds her gaze turns slowly to the side (looking back to her left, 5-degree eye rotation). A crystalline tear that was welling at the inner corner of her left eye now spills over and rolls slowly down her cheek during seconds 3-5, catching golden hour light. Her eyelashes tremble faintly. Camera performs a slow extreme push-in throughout (5-7% zoom). Warm 19th century interior light steady, dust particles drift. From second 5 onward: everything freezes completely — the tear locks in place mid-cheek, her gaze locks sideways, no more motion. 2D anime cel-shaded Shinkai aesthetic. Emotional peak.
+
+NEGATIVE: eyes closing, blinking rapidly, tear evaporating, morphing face, glasses moving, hair blowing, photorealism, style shift, camera shake, freeze frame corruption.
+
+---
+
+CLIP 11B — Ojos Orión bajan, freeze
+FIRST FRAME: assets/frames_output/frame_11b.png
+DURATION: 7.0s (mismo tratamiento que 11A — mirror timing)
+ASPECT RATIO: 9:16 vertical
+CAMERA: extreme push-in slow (~5-7% zoom, mirroring 11A)
+
+MOTION PROMPT:
+Anime-style extreme close-up of a young man's eyes behind thin rectangular glasses. Over the first 3 seconds his gaze lowers slowly downward toward the wooden floor (5-degree eye rotation down + eyelids lowering 2-3mm). His iris catches only a faint sliver of light — the glassy sheen of held-back grief intensifies (moisture builds but no tear falls). His eyelashes shadow the iris more as his lids lower. From second 5 onward: everything freezes completely — his gaze locks downward, no more motion. Warm 19th century interior light from the opposite side (left) steady, dust particles drift. 2D anime cel-shaded Shinkai aesthetic. Emotional peak.
+
+NEGATIVE: eyes closing fully, blinking rapidly, tear appearing, glasses moving, hair blowing violently, morphing face, photorealism, style shift, camera shake.
+
+---
+
+CAPCUT ASSEMBLY:
+- 11A ocupa mitad superior del frame 9:16
+- 11B ocupa mitad inferior del frame 9:16
+- Ambos clips en sync temporal (comienzan y terminan a la vez)
+- Freeze coincide al segundo 5 en ambos — mantener freeze visible 2s adicionales (total 7s)
+- Alternativa lazy: usar `frame_12.png` directamente como still de 7s si Kling no anima bien el freeze.

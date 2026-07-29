@@ -1,0 +1,31 @@
+CLIP 13 — Logo Bitácora + La Estancia (58.0-60.0s)
+
+FIRST FRAME: assets/frames_output/frame_13.png (⚠️ PENDIENTE — generar primero)
+DURATION: 2.0s
+ASPECT RATIO: 9:16 vertical
+MODE: Kling 3.0 Standard (o directo en CapCut sin animación IA)
+
+ESTRATEGIA: dos opciones dependiendo de qué tan bien salga `frame_13.png` en Nano Banana:
+
+---
+
+**OPCIÓN A — Animar en Kling (si el logo salió bien):**
+
+CAMERA CONTROL: static con micro-shake final
+MOTION PROMPT:
+Anime-style title card composition. Everything is initially still. Over the first 1.2 seconds a very slow fade-in effect intensifies (opacity 60% → 100% over 1.2s, subtle warm glow builds around the "BITÁCORA" typography). At second 1.4 a single micro-shake vibration hits the entire frame briefly (~3px displacement for 0.1s — like a final punctuation beat). Return to full stillness for the remaining time. Dust particles float continuously and slowly across the frame. Antique brass oil lamp glow flickers once faintly at second 1.5. 2D anime cel-shaded Shinkai aesthetic preserved. Elegant closing beat.
+NEGATIVE: text morphing, letters changing, spelling errors, rapid movement, exaggerated shake, photorealism, style shift.
+
+---
+
+**OPCIÓN B — Solo CapCut (recomendado si el logo no sale limpio en IA):**
+
+1. Colocar `frame_13.png` como still de 2s.
+2. Aplicar fade-in de 0 → 100% opacidad durante los primeros 1.2s.
+3. Micro-shake sutil al segundo 1.4 (efecto CapCut "shake" intensidad baja, duración 0.1s).
+4. Debajo del título añadir texto en CapCut (no en la imagen IA):
+   > Serie completa. Cada [día]. Link en bio.
+   Fuente misma serif, color ivory, tamaño 24pt, opacidad 80%.
+5. Última nota grave del piano acompaña + fade to black en último 0.3s.
+
+Recomendación: **usa Opción B**. IA suele fallar en tipografía precisa. Ahorra créditos Kling y garantiza texto legible.

@@ -1,0 +1,19 @@
+CLIP 9 — Té slow motion (34.0-41.0s)
+
+FIRST FRAME: assets/frames_output/frame_09.png
+LAST FRAME: (opcional, no requerido)
+DURATION: 7.0s
+ASPECT RATIO: 9:16 vertical
+MODE: Kling 3.0 Standard (o Pro si disponible — este clip es el pico visual)
+
+ESTRATEGIA DURACIÓN:
+- Si Kling free tope 5s → generar 5s a máxima calidad, luego en CapCut aplicar ralentización 0.7x para llegar a 7s totales. El clip ya está en slow motion visualmente, la ralentización adicional refuerza el pico.
+- Si Kling Pro permite 10s → generar 7s directo.
+
+CAMERA CONTROL: mostly static with imperceptible micro drift forward (barely any push-in, ~1-2% over duration, to add "held breath" tension)
+
+MOTION PROMPT:
+Anime-style dynamic slow-motion shot of a young man with tousled dark brown hair and glasses caught mid-fall, arms outstretched forward. The porcelain teacup and saucer suspended in mid-air continue their extreme slow-motion trajectory: over the 7 seconds the amber tea droplets separate further and drift outward in slow arcs, individual droplets rotate faintly as they fall, the cup itself rotates 15 degrees clockwise very slowly, the tea stain on his cream linen shirt spreads faintly outward (dark wet patch growing 5-10%). His face expression holds — eyes wide with urgency, mouth slightly parted, glasses askew. His body is nearly frozen (only his fingers on the outstretched hands twitch subtly). Warm afternoon golden sunlight creates dramatic backlight on the flying droplets throughout. Dust particles disturbed by his motion drift slowly in the air. 2D anime cel-shaded Shinkai aesthetic preserved. This is the emotional peak of the hook — everything moves in bullet time.
+
+NEGATIVE PROMPT:
+cup breaking, cup shattering, glass breaking, tea splashing violently, figure falling out of frame, body twisting, morphing anatomy, extra limbs, fast motion, real-time speed, photorealism, 3D CGI, live action, style shift, whip pan.

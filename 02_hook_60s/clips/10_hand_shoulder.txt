@@ -1,0 +1,14 @@
+CLIP 10 — Mano al hombro (41.0-46.0s)
+
+FIRST FRAME: assets/frames_output/frame_10.png
+LAST FRAME: (opcional, no requerido)
+DURATION: 5.0s
+ASPECT RATIO: 9:16 vertical
+MODE: Kling 3.0 Standard
+CAMERA CONTROL: STATIC (locked off)
+
+MOTION PROMPT:
+Anime-style medium back-view close-up. A young woman with wavy black shoulder-length hair and thin rectangular glasses (seen from behind) stands with her right hand outstretched toward an antique brass door handle just ahead of her. A young man's right hand rests gently on her left shoulder blade (full open palm, five fingers together). Motion is minimal and contained: her shoulders rise and fall subtly with a single held breath over the 5 seconds (one slow inhale ~2s, one slow exhale ~3s). Her fingers on the outstretched hand twitch faintly toward the door handle without quite touching it. His fingers on her shoulder press slightly more firmly (subtle 2-3mm increased contact pressure visible as the fabric of her waistcoat compresses faintly under his palm). Warm 19th century interior golden hour light steady. Dust particles float slowly in the backlight halo. Camera absolutely static. 2D anime cel-shaded Shinkai aesthetic preserved. Unbearable frozen tension.
+
+NEGATIVE PROMPT:
+figure turning, faces visible, hand withdrawing, hand grabbing violently, door opening, hair blowing, exaggerated breathing, sighing, hugging, kissing, pointing finger, single extended finger, wagging finger, morphing anatomy, photorealism, 3D CGI, live action, style shift, camera drift.

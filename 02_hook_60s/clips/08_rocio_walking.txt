@@ -1,0 +1,14 @@
+CLIP 8 — Rocío camina por madera (29.0-34.0s)
+
+FIRST FRAME: assets/frames_output/frame_08.png
+LAST FRAME: (opcional, no requerido)
+DURATION: 5.0s
+ASPECT RATIO: 9:16 vertical
+MODE: Kling 3.0 Standard
+CAMERA CONTROL: low tracking shot lateral slow (camera dolly follows the walking pace from the side at floor level, roughly matching her step tempo)
+
+MOTION PROMPT:
+Anime-style low-angle floor-level shot showing the hem of a long dark charcoal wool skirt and small dark leather ankle boots of a young woman walking slowly across aged wooden plank floor. Her boots step one at a time in reluctant slow rhythm (approximately 3 full steps over the duration — 1 step every ~1.6 seconds, slower than natural walking pace, hesitant). The skirt hem sways gently with each step. Warm afternoon golden hour sunlight streams diagonally across the floorboards from upper left creating long shadows that shift subtly as she walks. Dust motes float in the light beams. The clockmaker workshop gears visible in the far background remain still. Camera dolly tracks laterally alongside her at floor level (~10% horizontal pan matching her step pace). 2D anime cel-shaded Shinkai aesthetic preserved. Heavy, reluctant, melancholic.
+
+NEGATIVE PROMPT:
+running, fast walking, skipping, morphing legs, extra legs, distorted feet, missing feet, camera bouncing, exaggerated bob, photorealism, 3D CGI, live action, style shift.

@@ -1,0 +1,35 @@
+CLIP 7 — Triptych ojos (24.0-29.0s)
+
+ESTRATEGIA: este beat no se anima como UN clip Kling. Son 3 CORTES EDITORIALES rápidos en CapCut usando 07a, 07b, 07c como imágenes casi estáticas con micro-animación cada una.
+
+Genera 3 mini-clips separados en Kling (cada uno 5s, luego CapCut recorta a ~1.6s c/u para totalizar 5s):
+
+---
+
+CLIP 7A — Ojos Orión gira desde piano
+FIRST FRAME: assets/frames_output/frame_07a.png
+DURATION: 5s (recortar a ~1.6s en CapCut)
+CAMERA: static
+MOTION PROMPT:
+Anime-style extreme close-up of a young man's dark amber-brown eyes behind thin rectangular glasses. His eyes slowly shift sideways to the left over 1 second (as if turning his head to look at someone). His eyelashes flutter once involuntarily. Warm interior light steady. 2D anime cel-shaded Shinkai aesthetic. Silent, alarmed.
+NEGATIVE: rapid head turn, blinking multiple times, eyes closing, morphing face, photorealism, style shift.
+
+---
+
+CLIP 7B — Ojos Rocío baja cabeza
+FIRST FRAME: assets/frames_output/frame_07b.png
+DURATION: 5s (recortar a ~1.6s en CapCut)
+CAMERA: static
+MOTION PROMPT:
+Anime-style extreme close-up of a young woman's dark brown eyes behind thin rectangular glasses. Her gaze lowers slowly downward over 1 second (chin tilting down 5-10 degrees, eyelids relaxing). A single unshed tear grows visible at the inner corner of her left eye, welling but not yet falling. 2D anime cel-shaded Shinkai aesthetic. Silent guilt.
+NEGATIVE: tear falling, eyes closing fully, morphing face, head turning fast, photorealism, style shift.
+
+---
+
+CLIP 7C — Puerta entreabierta
+FIRST FRAME: assets/frames_output/frame_07c.png
+DURATION: 5s (recortar a ~1.7s en CapCut)
+CAMERA: micro push-in
+MOTION PROMPT:
+Anime-style medium close-up of a heavy wooden door slightly ajar. The warm golden light spilling through the crack intensifies subtly over the duration (as if outside sun brightens 10%). Dust particles float in the light beam slowly downward. Camera performs a very slow push-in (~3% zoom). 2D anime cel-shaded Shinkai aesthetic. Tense anticipation.
+NEGATIVE: door opening wider, door closing, hand appearing, figure appearing, photorealism, style shift, fast camera.

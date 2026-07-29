@@ -1,0 +1,22 @@
+CLIP 12 — Freeze + texto (53.0-58.0s)
+
+FIRST FRAME: assets/frames_output/frame_12.png
+DURATION: 5.0s
+ASPECT RATIO: 9:16 vertical
+
+ESTRATEGIA: **NO se anima en Kling.** Este clip es estático puro. Se ensambla directo en CapCut:
+
+1. Colocar `frame_12.png` como still image de 5 segundos.
+2. Añadir texto overlay que aparece letra por letra sobre la banda blur central:
+
+   **Versión ES:**
+   > ¿Qué harías si el amor al que te aferraste se va?
+
+   **Versión EN:**
+   > What would you do if the love you clung to walks away?
+
+3. Animación texto: "typewriter" o "letra por letra" al ritmo del piano (aproximadamente 1 letra cada 100ms). Fuente serif elegante, color ivory/cream, tamaño ~52pt, borde negro suave 2px.
+4. Posicionar el texto centrado horizontalmente sobre la banda blur (mitad vertical del frame).
+5. Grano de película sutil (5% intensidad) — igual que resto del hook.
+
+NO se genera clip en Kling — se salta este beat en la fase de animación. Ahorra 10-20 créditos.

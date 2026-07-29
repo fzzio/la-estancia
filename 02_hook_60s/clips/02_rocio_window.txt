@@ -1,0 +1,14 @@
+CLIP 2 — Rocío reflejo ventana (2.5-6.0s)
+
+FIRST FRAME: assets/frames_output/frame_02.png
+LAST FRAME: (opcional, no requerido)
+DURATION: 3.5s (Kling free suele generar 5s; recortar en CapCut si necesario)
+ASPECT RATIO: 9:16 vertical
+MODE: Kling 3.0 Standard
+CAMERA CONTROL: STATIC (locked off, no camera movement)
+
+MOTION PROMPT:
+Anime-style young woman with wavy black shoulder-length hair standing motionless with her back to camera facing a tall window. Her reflection is visible on the glass. Only ONE thing animates: a single crystalline tear rolls slowly down the cheek visible in the window reflection (from inner corner of her eye down to jawline over the full duration). The tear catches the warm afternoon golden light. Her hair, her body, and the outside sky remain completely still — no breathing, no wind, no environmental motion. Warm 19th century interior light steady. Camera absolutely static. 2D anime cel-shaded aesthetic preserved throughout, Makoto Shinkai style. Silent quiet grief.
+
+NEGATIVE PROMPT:
+distorted face, morphing reflection, camera movement, panning, zooming, exaggerated motion, hair blowing, body turning, multiple tears, tears streaming, photorealism, 3D CGI, live action, style shift.

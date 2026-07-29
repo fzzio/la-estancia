@@ -25,6 +25,7 @@ Actualizar marcando `[x]` cuando cada paso quede aprobado. Fecha en formato `202
 - [x] `frame_10.png` — mano al hombro. Nano Banana (Krea free ya sin cuota). Bonus: taller relojería visible + cadena de reloj en chaleco Rocío. Menor: falta mancha de té en manga Orión (aceptable). Fecha: 2026-07-29
 - [x] `frame_11a.png` — ojos Rocío girando lágrima. Nano Banana. Bonus: taller relojería fondo derecho + reflejo dorado iris. Fecha: 2026-07-29
 - [x] `frame_11b.png` — ojos Orión al suelo. Nano Banana. Bonus: piso madera visible refuerza dirección mirada. Fecha: 2026-07-29
+- [x] `frame_12.png` — freeze split (11a+11b unificado). Nano Banana. Banda blur central para overlay texto CapCut. Continuidad clavada. Fecha: 2026-07-29
 
 ## Fase 2 — Hook 60s: Animación (Kling 3.0)
 

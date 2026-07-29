@@ -1,0 +1,14 @@
+CLIP 1 — Dedos temblando piano (0.0-2.5s)
+
+FIRST FRAME: assets/frames_output/frame_01.png
+LAST FRAME: (opcional, no requerido)
+DURATION: 2.5s (usar 5s si Kling no permite 2.5s exacto, luego recortar en CapCut al inicio)
+ASPECT RATIO: 9:16 vertical
+MODE: Kling 3.0 Standard
+CAMERA CONTROL: micro push-in extremely slow (barely perceptible, 2-3% zoom)
+
+MOTION PROMPT:
+Extreme close-up of anime-style fingers resting on yellowed piano keys, hold-a-breath stillness. One single fingertip on the middle key trembles faintly with a tiny involuntary vibration (subtle 2-3mm oscillation, natural human tremor, not exaggerated). Warm golden hour dust particles floating slowly downward in the light beam. The wooden keys and background remain completely still. Camera performs an extremely slow micro push-in (2-3% zoom) toward the trembling finger. 2D anime cel-shaded aesthetic preserved throughout, Makoto Shinkai style, hand-drawn look. Silent, intimate, tense.
+
+NEGATIVE PROMPT:
+distorted anatomy, morphing hands, extra fingers, missing fingers, unnatural motion, exaggerated tremor, hand shaking violently, photorealism, 3D CGI, live action, style shift, blurry motion, camera shake.
