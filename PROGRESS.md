@@ -9,6 +9,18 @@ Actualizar marcando `[x]` cuando cada paso quede aprobado. Fecha en formato `202
 - [x] `jazmin_ref.png` generada, guardada en `assets/refs/`. Fecha: 2026-07-28
 - [x] Revisión conjunta aprobada. Diferenciación Rocío/Jazmín locked (gafas + largo cabello + paleta + piel). Orión: batuta en 3/4 vista es residuo, se descarta en frames de piano.
 
+## Estado global (2026-07-29 fin de sesión)
+
+- **Fase 0** — Character Reference Sheets: 100% ✅
+- **Fase 1** — Frames: 13/14 (frame_13 logo pendiente, opcional — se puede resolver en CapCut/Canva)
+- **Fase 2** — Animación Kling: prompts listos, sin generar (bloqueado por créditos Kling free)
+- **Fase 3** — Audio: no iniciado
+- **Fase 4** — Edición CapCut: no iniciado
+- **Fase 5** — Publicación: no iniciado
+- **Fase 6** — Medición: no iniciado
+
+**Repo**: https://github.com/fzzio/la-estancia (público, main)
+
 ## Fase 1 — Hook 60s: Frames
 
 - [x] `frame_01.png` — dedos temblando piano (sanity check). Generado en Krea.ai. Fecha: 2026-07-28
@@ -26,8 +38,14 @@ Actualizar marcando `[x]` cuando cada paso quede aprobado. Fecha en formato `202
 - [x] `frame_11a.png` — ojos Rocío girando lágrima. Nano Banana. Bonus: taller relojería fondo derecho + reflejo dorado iris. Fecha: 2026-07-29
 - [x] `frame_11b.png` — ojos Orión al suelo. Nano Banana. Bonus: piso madera visible refuerza dirección mirada. Fecha: 2026-07-29
 - [x] `frame_12.png` — freeze split (11a+11b unificado). Nano Banana. Banda blur central para overlay texto CapCut. Continuidad clavada. Fecha: 2026-07-29
+- [ ] `frame_13.png` — logo Bitácora + La Estancia (opcional IA; alternativa recomendada: diseñar directo en CapCut/Canva con tipografía real, IA tiende a deformar letras)
 
 ## Fase 2 — Hook 60s: Animación (Kling 3.0)
+
+**Prompts listos**: 13 en `02_hook_60s/clips/` con motivos literarios del PDF (6 enriquecidos).
+**Bloqueador**: Kling free tier limitante — 66 créditos/día, VIDEO 3.0 cuesta 45 créditos por clip 5s → **1 clip/día** en 3.0 puro. Necesitas plan pagado o modelo alternativo.
+**Settings recomendados** cuando reanudes: VIDEO 3.0 Turbo (más barato), 720p, 5s, Native Audio OFF, aspect 9:16 vertical, 1 generación. Reserva 3.0 puro para clip 9 (té slow-mo).
+**Alternativas si Kling no cierra**: Runway Gen-3 (créditos free menos ajustados), Luma Dream Machine, Hailuo MiniMax.
 
 - [ ] Clip 1 (frame_01 animado, 2.5s)
 - [ ] Clip 2 (frame_02, 3.5s)
@@ -85,3 +103,6 @@ Agregar aquí decisiones que se tomen durante la ejecución para que la próxima
 - 2026-07-28: Setup inicial completo. Nombres locked: Rocío / Orión / Jazmín. Estética Shinkai. Voz masculina cálida. Canal: Bitácora. Paywall 3+7. Música pieza única variaciones.
 - 2026-07-28: Character sheets generados en Nano Banana, aprobados. Piel neutralizada a ivory / peach.
 - 2026-07-28: Nano Banana falla en frame 01 (photoreal + hands desproporcionadas). Switch a Krea.ai para frames de escena. Krea free tier + ajustar aspect ratio a 9:16.
+- 2026-07-29: Krea free tier agotado a mitad de camino. Nano Banana rinde bien en el resto (ambientales + close-ups), bonus consistencia mundial (taller relojería aparece sin pedirlo en frames 05/08/10/11a).
+- 2026-07-29: Fase 1 completa (excepto logo). Fase 2 prompts Kling generados con motion + literary motifs del PDF original. Repo público creado en github.com/fzzio/la-estancia con .gitignore OS files. Bible + hook plan movidos al repo. PDF original queda fuera (IP publicada, decisión user).
+- 2026-07-29: Kling AI free tier evaluado. 66 créditos/día, VIDEO 3.0 = 45 créditos/clip → **1 clip/día**. Bloqueante para hook 60s. Próxima sesión: decidir entre (a) plan Kling pagado, (b) modelo alternativo (Runway/Luma/Hailuo), (c) esparcir generación en 11+ días.
