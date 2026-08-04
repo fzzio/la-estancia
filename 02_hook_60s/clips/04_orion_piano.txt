@@ -1,16 +1,23 @@
-CLIP 4 — Orión piano ojos cerrados (11.0-16.0s)
+CLIP 4 — Orión piano ojos cerrados (timeline 11.0-16.0s)
 
-FIRST FRAME: assets/frames_output/frame_04.png
-LAST FRAME: (opcional, no requerido)
-DURATION: 5.0s
-ASPECT RATIO: 9:16 vertical
-MODE: Kling 3.0 Standard
-CAMERA CONTROL: pull out slow (very gentle dolly back, ~5% zoom out over duration)
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       5s   (slider — timeline slot exacto, sin trim CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      2 (beat clave con dynamic strike, elegir mejor toma)
+FIRST FRAME:  assets/frames_output/frame_04.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt (Kling 3.0 no tiene campo separado)
 
-MOTION PROMPT:
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
 Anime-style young man with tousled dark brown hair and thin rectangular glasses seated at an upright piano with eyes closed. His brow tenses and furrows with visible contained anger between musical phrases (not soft sadness — this is restrained rage held back behind closed eyelids, the jaw subtly clenches). His hands play the keys with dynamic contrast: soft delicate fingertip pressure for the first 2 seconds, then at second 2.5 his LEFT hand strikes a low bass key with sudden increased force (the shoulder flexes briefly, the key sinks deeper, a visible micro-jolt through his forearm — the music turned "fuerte y oscura" as the book describes). Return to soft phrasing for the remaining seconds, but the brow stays furrowed. His head tilts down 2 degrees over the duration. The dramatic Shinkai sunset sky visible through the window behind him gradually deepens from gray into warm amber-red tones. Dust particles float slowly in the sunbeam. Camera performs an extremely gentle pull-out over the full duration (~5% zoom out). 2D anime cel-shaded aesthetic preserved throughout, Makoto Shinkai style. Contained fury behind closed eyes, absorbed, silent.
 
-LITERARY MOTIF: "ira contenida cuando fruncía el ceño" and "la melodía se volvía fuerte y oscura" (Parte I). The pianist's emotion is anger held under discipline, not simple sadness — the dynamic strike breaks the illusion of calm for one moment.
+Avoid: distorted face, morphing hands, extra fingers, missing fingers, exaggerated arm motion, eyes opening, mouth open, singing, head snapping, dramatic sky color shift, sky flashing, glasses moving, hair blowing, photorealism, 3D CGI, live action, style shift, fast camera movement, camera shake.
 
-NEGATIVE PROMPT:
-distorted face, morphing hands, extra fingers, exaggerated arm motion, eyes opening, mouth open, singing, head snapping, sky changing color dramatically, photorealism, 3D CGI, live action, style shift, fast camera movement.
+========== CAPCUT POST ==========
+- Ninguno (timeline slot ya son 5s exactos).
+
+========== LITERARY MOTIF (context only, do not paste) ==========
+"Ira contenida cuando fruncía el ceño" y "la melodía se volvía fuerte y oscura" (Parte I). Emoción del pianista es rabia bajo disciplina, no tristeza simple.

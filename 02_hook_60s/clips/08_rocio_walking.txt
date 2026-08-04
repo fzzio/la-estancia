@@ -1,16 +1,23 @@
-CLIP 8 — Rocío camina por madera (29.0-34.0s)
+CLIP 8 — Rocío camina por madera (timeline 29.0-34.0s)
 
-FIRST FRAME: assets/frames_output/frame_08.png
-LAST FRAME: (opcional, no requerido)
-DURATION: 5.0s
-ASPECT RATIO: 9:16 vertical
-MODE: Kling 3.0 Standard
-CAMERA CONTROL: low tracking shot lateral slow (camera dolly follows the walking pace from the side at floor level, roughly matching her step tempo)
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       5s   (slider — timeline slot exacto, sin trim CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      2 (motion complejo con deceleración progresiva, elegir mejor toma)
+FIRST FRAME:  assets/frames_output/frame_08.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt (Kling 3.0 no tiene campo separado)
 
-MOTION PROMPT:
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
 Anime-style low-angle floor-level shot showing the hem of a long dark charcoal wool skirt and small dark leather ankle boots of a young woman walking slowly across aged wooden plank floor. Her boots step in PROGRESSIVELY DECELERATING rhythm — 3 steps total but each slower than the previous, as if she's walking on burning coals: STEP 1 (0-1s) natural walking pace, boot lifts cleanly and lands firmly. STEP 2 (1.5-2.8s) noticeably slower, the boot hovers for a beat before landing softly, weight barely transferred. STEP 3 (3.5-5s) almost stalls — the boot lifts, pauses mid-air for nearly 0.6 seconds as if her body wants to stop, then reluctantly completes the step landing so softly it barely presses the floorboard. Between steps, her weight shifts subtly on the planted foot as if her body is arguing with itself. The skirt hem sways gently, then slower, then almost stills. Warm afternoon golden hour sunlight streams diagonally across the floorboards from upper left creating long shadows that shift subtly as she moves. Dust motes float in the light beams. The clockmaker workshop gears visible in the far background remain still. Camera dolly tracks laterally alongside her at floor level (~10% horizontal pan matching her decelerating pace). 2D anime cel-shaded Shinkai aesthetic preserved. Heavy, reluctant, each step more difficult than the last.
 
-LITERARY MOTIF: "cada paso era más difícil que el anterior, como si caminara sobre brasas ardientes que le quemaban por fuera, pero que dolían más dentro" (Parte III). The deceleration is the emotional truth of the beat — she is being pulled back by something invisible with every step.
+Avoid: normal walking pace, running, skipping, boots stomping loudly, skirt blowing violently, wind, upper body visible, face visible, morphing legs, extra legs, distorted feet, missing feet, exaggerated shadow motion, camera bouncing, camera shake, photorealism, 3D CGI, live action, style shift, background gears turning fast.
 
-NEGATIVE PROMPT:
-running, fast walking, skipping, morphing legs, extra legs, distorted feet, missing feet, camera bouncing, exaggerated bob, photorealism, 3D CGI, live action, style shift.
+========== CAPCUT POST ==========
+- Ninguno (Kling ya entrega 5s exactos del timeline slot).
+
+========== LITERARY MOTIF (context only, do not paste) ==========
+"Cada paso era más difícil que el anterior, como si caminara sobre brasas ardientes que le quemaban por fuera, pero que dolían más dentro" (Parte III).

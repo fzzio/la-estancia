@@ -1,0 +1,18 @@
+TOOL: Nano Banana. Aspect ratio: 9:16 vertical.
+REFERENCE IMAGE: attach orion_ref.png.
+
+STYLE: 2D anime illustration, hand-drawn cel-shaded animation, Makoto Shinkai film aesthetic (Your Name, 5 Centimeters per Second). NOT Studio Ghibli, NOT photorealistic.
+
+FRAMING RULE (CRITICAL):
+Full-frame edge-to-edge composition. The subject and background fill the ENTIRE 9:16 vertical canvas from edge to edge. NO borders, NO inner frames, NO picture-within-picture, NO letterbox bars, NO matte bars, NO decorative frames around the subject. The subject bleeds to the edges of the vertical composition.
+
+PROMPT:
+Anime illustration in Makoto Shinkai style, medium shot at a 3/4 diagonal frontal angle of the character from the reference image (Orión the adult pianist with tousled dark brown hair, thin rectangular black-framed glasses, cream linen collarless shirt with high collar, black silk cravat/neck tie knotted at the collar, dark charcoal wool waistcoat with buttons). Framing captures him from mid-chest up to the top of his head, seated at an upright piano — the top edge of the piano and blurred yellowed keys are visible at the very bottom of the frame. His right hand rests softly on the piano keys at the bottom edge (barely visible, out of focus). His LEFT hand is still resting down on the keys in this base frame — it will be animated later to rise up to his chest. His facial expression is CALM AND NEUTRAL, no smile at all — mouth relaxed and closed, gaze lowered slightly toward the keys, brow relaxed, contemplative and absorbed. The upper-left chest area of his shirt is clearly visible (over the heart), open and unobstructed — this is where the hand will land in the animation. His posture is slightly hunched at the piano, shoulders relaxed.
+
+BACKGROUND: warm 19th century interior at a slight blur — an out-of-focus tall window on the right side spilling warm golden hour light onto his right shoulder and cheek, faint suggestion of a bookshelf and gilded frame behind him at soft blur, dust particles floating in the light beam as tiny glowing dots, warm amber and rich chocolate brown color palette. The background must feel like the same Shinkai warm room as frames 01, 04, 07a. The background fills all remaining pixels of the 9:16 canvas around the subject — no matte bars, no letterbox, no framing device.
+
+Delicate anime line art, clean cel shading on skin, warm ivory skin tone, subtle film grain overlay, vertical 9:16 medium shot composition, cinematic warm mood, gentle intimacy.
+
+Style keywords: anime, 2D animation, cel shading, Makoto Shinkai, hand-drawn medium shot, 3/4 frontal angle, warm interior, golden hour side light, dust particles, upright piano visible at bottom edge, edge-to-edge full-frame composition.
+
+Negative: photorealism, 3D render, CGI, live action, realistic skin texture, DSLR photograph, hyperrealistic, hand already on chest, hand raised in the air, dramatic pose, screaming, crying, tears, wide open mouth, smiling, grinning, laughing, smirking, teeth visible, sunglasses, modern clothing, t-shirt, jeans, plain background, flat background, seamless paper background, horizontal composition, square composition, letterbox bars, black bars, matte bars, inner frame, decorative frame around subject, picture-within-picture, framed inset, border around composition, wood paneling around subject as framing device, morphing anatomy, deformed hands, extra fingers, missing fingers.

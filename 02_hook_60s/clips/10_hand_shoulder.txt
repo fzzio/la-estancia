@@ -1,16 +1,23 @@
-CLIP 10 — Mano al hombro (41.0-46.0s)
+CLIP 10 — Mano al hombro (timeline 41.0-46.0s)
 
-FIRST FRAME: assets/frames_output/frame_10.png
-LAST FRAME: (opcional, no requerido)
-DURATION: 5.0s
-ASPECT RATIO: 9:16 vertical
-MODE: Kling 3.0 Standard
-CAMERA CONTROL: STATIC (locked off)
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       5s   (slider — timeline slot exacto, sin trim CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      2 (micro-motion coreografiado, elegir mejor toma)
+FIRST FRAME:  assets/frames_output/frame_10.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt (Kling 3.0 no tiene campo separado)
 
-MOTION PROMPT:
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
 Anime-style medium back-view close-up. A young woman with wavy black shoulder-length hair and thin rectangular glasses (seen from behind) stands with her right hand outstretched toward an antique brass door handle just ahead of her — her fingers are frozen 2-3mm short of touching the brass (she was about to grip it when he arrived; a hair-thin gap of light is visible between her fingertips and the metal). A young man's right hand rests gently on her left shoulder blade (full open palm, five fingers together). Motion is minimal and contained: her shoulders rise and fall subtly with ONE slow held breath over the 5 seconds (inhale 0-2s, held 2-3s, exhale 3-5s). Her outstretched fingers twitch imperceptibly toward the handle at second 2 (a micro-lean forward of 1mm as if she's about to commit) and then twitch back at second 3.5 (a micro-lean backward, as if his touch pulled her briefly out of her decision) — but she never closes the gap. His fingers on her shoulder press slightly more firmly (subtle 2-3mm increased contact pressure visible as the fabric of her waistcoat compresses faintly under his palm) precisely at second 2.5. His head remains bowed downward toward the floor (he cannot bring himself to look at her). Warm 19th century interior golden hour light steady. Dust particles float slowly in the backlight halo. Camera absolutely static. 2D anime cel-shaded Shinkai aesthetic preserved. Unbearable frozen tension — a suspended argument between one person leaving and another begging without words.
 
-LITERARY MOTIF: "ella nunca había quitado la mano de la puerta" (Parte IV) — her hand hovers by the handle, undecided but committed. "buscaba en sus pies alguna teoría con la cual armarse de valor" (Parte III) — his gaze is on the floor, searching for words that won't come.
+Avoid: figure turning, faces visible, hand withdrawing, hand grabbing violently, door opening, hair blowing, exaggerated breathing, sighing, hugging, kissing, pointing finger, single extended finger, wagging finger, morphing anatomy, morphing hands, extra fingers, photorealism, 3D CGI, live action, style shift, camera drift, camera pan.
 
-NEGATIVE PROMPT:
-figure turning, faces visible, hand withdrawing, hand grabbing violently, door opening, hair blowing, exaggerated breathing, sighing, hugging, kissing, pointing finger, single extended finger, wagging finger, morphing anatomy, photorealism, 3D CGI, live action, style shift, camera drift.
+========== CAPCUT POST ==========
+- Ninguno (Kling ya entrega 5s exactos del timeline slot).
+
+========== LITERARY MOTIF (context only, do not paste) ==========
+"Ella nunca había quitado la mano de la puerta" (Parte IV). "Buscaba en sus pies alguna teoría con la cual armarse de valor" (Parte III).

@@ -1,16 +1,23 @@
-CLIP 3 — Té sobre mesa (6.0-11.0s)
+CLIP 3 — Té sobre mesa (timeline 6.0-11.0s)
 
-FIRST FRAME: assets/frames_output/frame_03.png
-LAST FRAME: (opcional, no requerido)
-DURATION: 5.0s
-ASPECT RATIO: 9:16 vertical
-MODE: Kling 3.0 Standard
-CAMERA CONTROL: STATIC overhead (locked off, no movement)
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       5s   (slider — timeline slot exacto, sin trim CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      1
+FIRST FRAME:  assets/frames_output/frame_03.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt (Kling 3.0 no tiene campo separado)
 
-MOTION PROMPT:
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
 Anime-style overhead top-down close-up of a delicate white porcelain teacup on an aged wooden table. The tea is amber and WARM, NOT HOT — only the faintest whisper of vapor rises (barely-visible thin wisps at the surface, subtle heat shimmer, dissipating within 2mm of the tea surface). A young woman's hand (ivory olive skin, slender fingers) has just placed the cup down and rests beside it — her thumb and index finger still lightly touching the porcelain handle in a ceremonial, careful pose (as if this act was performed a hundred times before with the same reverence). Her other hand enters the frame edge holding a small folded cloth or napkin, and delicately adjusts the cup's position by 2-3mm at second 2 (aligning it perfectly on the wood). Her fingers show a faint involuntary tremble on the ring finger (very subtle, 2mm micro-vibration). No other motion. Warm afternoon golden sunlight steady across the wooden surface. Camera absolutely static overhead. 2D anime cel-shaded aesthetic preserved, Makoto Shinkai style. Tender, quiet, ceremonial melancholy — the act of an old ritual performed one last time.
 
-LITERARY MOTIF: the tea is a "vieja receta" (old recipe) she prepares with knowledge and love, served "tibio" (warm, not hot) — Parte II. The ceremony of placement matters more than the tea itself.
+Avoid: distorted hand, morphing fingers, extra fingers, cup falling, cup moving, table shaking, exaggerated steam, thick smoke, boiling tea, hand withdrawing fully out of frame, photorealism, 3D CGI, live action, style shift, camera drift, camera tilt, camera pan.
 
-NEGATIVE PROMPT:
-distorted hand, morphing fingers, extra fingers, cup falling, cup moving, table shaking, exaggerated steam, thick smoke, hand withdrawing fully out of frame, photorealism, 3D CGI, live action, style shift, camera drift.
+========== CAPCUT POST ==========
+- Ninguno (timeline slot ya son 5s exactos).
+
+========== LITERARY MOTIF (context only, do not paste) ==========
+"Vieja receta" preparada con conocimiento y amor, servida tibia (Parte II). La ceremonia del emplazamiento importa más que el té.

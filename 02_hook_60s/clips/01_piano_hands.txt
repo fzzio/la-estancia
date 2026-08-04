@@ -1,16 +1,99 @@
-CLIP 1 — Dedos temblando piano (0.0-2.5s)
+CLIP 1 — Piano hands → gesto pecho → ojos (timeline 0.0-2.5s)
 
-FIRST FRAME: assets/frames_output/frame_01.png
-LAST FRAME: (opcional, no requerido)
-DURATION: 2.5s (usar 5s si Kling no permite 2.5s exacto, luego recortar en CapCut al inicio)
-ASPECT RATIO: 9:16 vertical
-MODE: Kling 3.0 Standard
-CAMERA CONTROL: micro push-in extremely slow (barely perceptible, 2-3% zoom)
+ESTRATEGIA: rediseñado como TRIPTYCH (2026-07-30). Kling no ejecuta cortes editoriales dentro de un solo clip (la mano subía pero salía de frame sin mostrar el pecho — ver clip generado 2026-07-30 07:23). Solución: 3 mini-generaciones separadas + montaje CapCut.
 
-MOTION PROMPT:
-Extreme close-up of anime-style short-fingered hands on yellowed piano keys, hold-a-breath stillness. The pianist presses a low bass note slowly with his left hand (the key sinks 5mm and holds), while his right hand rests near middle C — one fingertip on the right hand trembles faintly with a tiny involuntary vibration (subtle 2-3mm oscillation, natural human tremor, not exaggerated). At approximately second 1.5, out of the top edge of the frame comes a faint hint: his OTHER free hand drifts briefly toward his upper-left chest area (barely entering the frame — just the wrist edge and lower forearm rising into view for 0.5 seconds as if instinctively covering a chest ache, then withdrawing out of frame). Warm golden hour dust particles float slowly downward in the light beam. The wooden keys and background remain completely still. Camera performs an extremely slow micro push-in (2-3% zoom) toward the trembling finger. 2D anime cel-shaded aesthetic preserved throughout, Makoto Shinkai style, hand-drawn look. Silent, intimate, tense, aching.
+Distribución timeline 2.5s:
+- 01A extreme close-up manos piano  → 0.8s
+- 01B medium shot torso, mano al pecho → 1.2s
+- 01C extreme close-up ojos flicker  → 0.5s
 
-LITERARY MOTIF: chest pain on the left side (Parte I) — the hand-to-chest gesture is the character's involuntary tell that mainstream viewers will read as "something hurts" without needing explanation.
+Cada mini-clip Kling 3s (mínimo del slider), trim en CapCut.
 
-NEGATIVE PROMPT:
-distorted anatomy, morphing hands, extra fingers, missing fingers, unnatural motion, exaggerated tremor, hand shaking violently, photorealism, 3D CGI, live action, style shift, blurry motion, camera shake.
+════════════════════════════════════════════════════════════════
+CLIP 01A — Manos en piano (extreme close-up)
+════════════════════════════════════════════════════════════════
+
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       3s   (slider mínimo — timeline slot 0.8s, se trima 2.2s en CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      2 (apertura crítica, elegir mejor toma)
+FIRST FRAME:  assets/frames_output/frame_01.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt
+
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
+Extreme close-up of anime-style short-fingered hands on yellowed piano keys, hold-a-breath stillness. Hands and keys fill 90% of the frame. Background out-of-focus bokeh (blurred warm room), no room details readable. The pianist presses a low bass note slowly with his left hand (the key sinks 5mm and holds), while his right hand rests near middle C — one fingertip on the right hand trembles faintly with a tiny involuntary vibration (subtle 2-3mm oscillation, natural human tremor, not exaggerated). Warm golden hour dust particles float slowly downward in the light beam. Wooden keys and background remain completely still. Camera is locked and static (no push-in, no dolly, no shake). 2D anime cel-shaded aesthetic, Makoto Shinkai style, hand-drawn look. Silent, intimate, tense.
+
+Avoid: wide shot, room in focus, chair or bookshelf or curtain readable, hands leaving frame, hand rising toward chest, distorted anatomy, morphing hands, extra fingers, missing fingers, fused fingers, exaggerated tremor, hand shaking violently, camera push-in, camera pull-out, camera pan, photorealism, 3D CGI, live action, style shift, blurry motion, camera shake.
+
+========== CAPCUT POST ==========
+- Elegir 0.8s del clip donde el tremor sea más visible. Trim resto.
+
+════════════════════════════════════════════════════════════════
+CLIP 01B — Torso 3/4 frontal, mano sube al pecho izquierdo
+════════════════════════════════════════════════════════════════
+
+Esta es la toma CLAVE del clip 1 — donde se ve claramente el gesto al pecho. Requiere frame inicial NUEVO (medium shot 3/4 frontal). Si no existe frame_01b.png, generar en Nano Banana primero (ver referencia al final del archivo).
+
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       3s   (slider mínimo — timeline slot 1.2s, se trima 1.8s en CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      2 (toma clave del gesto, elegir mejor toma)
+FIRST FRAME:  assets/frames_output/frame_01b.png (⚠️ PENDIENTE — generar con prompt en `frames/01b_orion_chest.txt`)
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt
+
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
+Anime-style medium shot 3/4 diagonal frontal angle showing a young pianist from mid-chest up while seated at the upright piano. Framing captures his head, torso and left chest area clearly (piano keys blurred at the bottom of the frame). His right hand remains playing softly on the piano keys just below frame (barely visible). At approximately second 1.5, his LEFT hand slowly rises from below the frame and comes up to press flat against his upper-left chest area (over the heart) — the palm settles against the cream linen shirt fabric, fingers spread slightly, wrist visible, elbow lifting outward. The hand rests on the chest and presses gently as if instinctively covering a chest ache. His facial expression shifts subtly: brow tenses, eyes half-close, jaw clenches once — contained pain, not exaggerated. His head tilts down 3 degrees. Warm golden hour sunlight falls on him from the right side (window off-frame). Dust particles float slowly. Camera is locked and static (no push-in, no dolly, no shake). 2D anime cel-shaded aesthetic, Makoto Shinkai style. Silent, intimate, revealing the hidden ache.
+
+Avoid: hand missing the chest, hand hovering in air, hand exiting frame, hand grabbing shirt collar, dramatic gasp, mouth open wide, screaming, sobbing, tears falling, morphing hands, extra fingers, missing fingers, distorted anatomy, camera pan, camera zoom, camera shake, photorealism, 3D CGI, live action, style shift.
+
+========== CAPCUT POST ==========
+- Elegir 1.2s del clip donde la mano ya esté firmemente en el pecho (típicamente segundos 1.5-2.7 del clip Kling). Descartar el rise-up inicial (que ya vino sugerido en 01A) y el descenso final.
+
+========== NANO BANANA REFERENCE (para generar frame_01b.png) ==========
+Prompt completo en `frames/01b_orion_chest.txt`. Adjuntar `assets/refs/orion_ref.png` como reference image. Output: `assets/frames_output/frame_01b.png`.
+
+════════════════════════════════════════════════════════════════
+CLIP 01C — Ojos flicker (extreme close-up, transición al clip 2)
+════════════════════════════════════════════════════════════════
+
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       3s   (slider mínimo — timeline slot 0.5s, se trima 2.5s en CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      1
+FIRST FRAME:  assets/frames_output/frame_01c.png (⚠️ PENDIENTE — generar con prompt en `frames/01c_orion_eyes_pain.txt`)
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt
+
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
+Anime-style extreme close-up of a young man's dark amber-brown eyes behind thin rectangular glasses. The eyes are half-closed with contained pain. Over 1 second (approximately second 1 of the clip) the eyelids briefly close (a slow deliberate blink) and reopen with a sharpened focus — the eyes are wet with a faint sheen of unshed moisture but no tear falls. His eyelashes cast a shadow across the iris on the reopening. Warm golden hour side light on the iris from the right stays constant. Camera stays locked and static (no push-in, no pull-out, no pan, no shake). 2D anime cel-shaded Shinkai aesthetic. Silent, aching.
+
+Avoid: eyes closing fully for long, blinking repeatedly, tear falling, glasses moving, face morphing, mouth visible, wide shot, medium shot, camera movement, push-in, pull-out, zoom, pan, shake, photorealism, 3D CGI, live action, style shift.
+
+========== CAPCUT POST ==========
+- Elegir 0.5s del blink+reopen (típicamente segundos 0.8-1.3 del clip Kling).
+
+========== NANO BANANA REFERENCE (para generar frame_01c.png) ==========
+Prompt completo en `frames/01c_orion_eyes_pain.txt`. Adjuntar `assets/refs/orion_ref.png` como reference image. Output: `assets/frames_output/frame_01c.png`.
+
+════════════════════════════════════════════════════════════════
+CAPCUT ASSEMBLY (clip 1 completo, timeline 0.0-2.5s)
+════════════════════════════════════════════════════════════════
+- Orden: 01A (0.8s) → 01B (1.2s) → 01C (0.5s) — cortes duros, sin crossfade
+- Total: 2.5s exactos
+- Todos comparten iluminación golden hour warm 19th century para continuidad
+- Grain de película 5% uniforme
+- 01A y 01C se leen como "vestidura" del gesto central de 01B
+
+========== LITERARY MOTIF (context only, do not paste) ==========
+Chest pain on the left side (Parte I). El gesto instintivo de la mano al pecho izquierdo es la tell del personaje. Ahora VISIBLE gracias al shot dedicado 01B (antes se ocultaba porque la cámara estaba fija en las manos y el gesto salía de frame).

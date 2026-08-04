@@ -1,38 +1,60 @@
-CLIP 11 — Ojos girando + freeze final (46.0-53.0s)
+CLIP 11 — Ojos girando + freeze final (timeline 46.0-53.0s)
 
-ESTRATEGIA: dos mini-clips en Kling que en CapCut se apilan en split composition + freeze final:
+ESTRATEGIA: dos mini-clips en Kling que en CapCut se apilan en split composition. Cada clip 7s directo (Kling 3.0 permite generar 7s). Freeze del último frame ya no es necesario si generas 7s exactos.
 
----
+════════════════════════════════════════════════════════════════
+CLIP 11A — Ojos Rocío gira, lágrima cae
+════════════════════════════════════════════════════════════════
 
-CLIP 11A — Ojos Rocío gira, lágrima cae, freeze
-FIRST FRAME: assets/frames_output/frame_11a.png
-DURATION: 7.0s (Kling 5s + CapCut ralentiza a 0.7x para llegar a 7s; freeze en último frame usando "hold last frame" 2s adicionales)
-ASPECT RATIO: 9:16 vertical
-CAMERA: extreme push-in slow (~5-7% zoom in over the animated portion, then absolute freeze)
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       7s   (slider — timeline slot exacto, sin freeze artificial en CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      2 (pico emocional final, elegir mejor toma)
+FIRST FRAME:  assets/frames_output/frame_11a.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt (Kling 3.0 no tiene campo separado)
 
-MOTION PROMPT:
-Anime-style extreme close-up of a young woman's eyes behind thin rectangular glasses. Over the first 3 seconds her gaze turns slowly to the side (looking back to her left, 5-degree eye rotation). A crystalline tear that was welling at the inner corner of her left eye now spills over and rolls slowly down her cheek during seconds 3-5, catching golden hour light. Her eyelashes tremble faintly. Camera performs a slow extreme push-in throughout (5-7% zoom). Warm 19th century interior light steady, dust particles drift. From second 5 onward: everything freezes completely — the tear locks in place mid-cheek, her gaze locks sideways, no more motion. 2D anime cel-shaded Shinkai aesthetic. Emotional peak.
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
+Anime-style extreme close-up of a young woman's eyes behind thin rectangular glasses. Over the first 3 seconds her gaze turns slowly to the side (looking back to her left, 5-degree eye rotation). A crystalline tear that was welling at the inner corner of her left eye now spills over and rolls slowly down her cheek during seconds 3-5, catching golden hour light. Her eyelashes tremble faintly. Camera performs a slow extreme push-in during the first 5 seconds (5-7% zoom). Warm 19th century interior light steady, dust particles drift. From second 5 to 7: everything decelerates to near-freeze — the tear locks in place mid-cheek, her gaze locks sideways, camera locks, only imperceptible motion (dust particles still float slowly). Held emotional peak. 2D anime cel-shaded Shinkai aesthetic.
 
-NEGATIVE: eyes closing, blinking rapidly, tear evaporating, morphing face, glasses moving, hair blowing, photorealism, style shift, camera shake, freeze frame corruption.
+Avoid: eyes closing, blinking rapidly, tear evaporating, multiple tears, morphing face, glasses moving, hair blowing, second full push-in, camera reversing, photorealism, 3D CGI, live action, style shift, camera shake, freeze frame corruption.
 
----
+========== CAPCUT POST ==========
+- Ninguno (Kling entrega 7s con freeze natural al final).
+- Sync temporal con 11B (arrancan y terminan a la vez).
 
-CLIP 11B — Ojos Orión bajan, freeze
-FIRST FRAME: assets/frames_output/frame_11b.png
-DURATION: 7.0s (mismo tratamiento que 11A — mirror timing)
-ASPECT RATIO: 9:16 vertical
-CAMERA: extreme push-in slow (~5-7% zoom, mirroring 11A)
+════════════════════════════════════════════════════════════════
+CLIP 11B — Ojos Orión bajan
+════════════════════════════════════════════════════════════════
 
-MOTION PROMPT:
-Anime-style extreme close-up of a young man's eyes behind thin rectangular glasses. Over the first 3 seconds his gaze lowers slowly downward toward the wooden floor (5-degree eye rotation down + eyelids lowering 2-3mm). His iris catches only a faint sliver of light — the glassy sheen of held-back grief intensifies (moisture builds but no tear falls). His eyelashes shadow the iris more as his lids lower. From second 5 onward: everything freezes completely — his gaze locks downward, no more motion. Warm 19th century interior light from the opposite side (left) steady, dust particles drift. 2D anime cel-shaded Shinkai aesthetic. Emotional peak.
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       7s   (slider — timeline slot exacto)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      2 (sync con 11A, elegir mejor toma)
+FIRST FRAME:  assets/frames_output/frame_11b.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt (Kling 3.0 no tiene campo separado)
 
-NEGATIVE: eyes closing fully, blinking rapidly, tear appearing, glasses moving, hair blowing violently, morphing face, photorealism, style shift, camera shake.
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
+Anime-style extreme close-up of a young man's eyes behind thin rectangular glasses. Over the first 3 seconds his gaze lowers slowly downward toward the wooden floor (5-degree eye rotation down + eyelids lowering 2-3mm). His iris catches only a faint sliver of light — the glassy sheen of held-back grief intensifies (moisture builds but no tear falls). His eyelashes shadow the iris more as his lids lower. Camera performs a slow extreme push-in during the first 5 seconds (5-7% zoom, mirroring 11A). From second 5 to 7: everything decelerates to near-freeze — his gaze locks downward, camera locks, only imperceptible motion (dust particles still float slowly). Held emotional peak. Warm 19th century interior light from the left steady. 2D anime cel-shaded Shinkai aesthetic.
 
----
+Avoid: eyes closing fully, blinking rapidly, tear appearing, tear falling, glasses moving, hair blowing violently, morphing face, gaze rising, camera reversing, photorealism, 3D CGI, live action, style shift, camera shake, freeze frame corruption.
 
-CAPCUT ASSEMBLY:
+========== CAPCUT POST ==========
+- Ninguno (Kling entrega 7s con freeze natural al final).
+- Sync temporal con 11A (arrancan y terminan a la vez).
+
+════════════════════════════════════════════════════════════════
+CAPCUT ASSEMBLY (split composition)
+════════════════════════════════════════════════════════════════
 - 11A ocupa mitad superior del frame 9:16
 - 11B ocupa mitad inferior del frame 9:16
 - Ambos clips en sync temporal (comienzan y terminan a la vez)
-- Freeze coincide al segundo 5 en ambos — mantener freeze visible 2s adicionales (total 7s)
-- Alternativa lazy: usar `frame_12.png` directamente como still de 7s si Kling no anima bien el freeze.
+- Alternativa lazy si Kling no entrega 7s consistente: generar 5s cada uno + freeze frame 2s en CapCut del último frame.
+- Alternativa ultra-lazy: usar `frame_12.png` directamente como still de 7s si el split composition falla.

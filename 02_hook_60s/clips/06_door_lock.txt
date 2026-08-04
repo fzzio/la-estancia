@@ -1,14 +1,23 @@
-CLIP 6 — Puerta cerradura antigua (20.0-24.0s)
+CLIP 6 — Puerta cerradura antigua (timeline 20.0-24.0s)
 
-FIRST FRAME: assets/frames_output/frame_06.png
-LAST FRAME: (opcional, no requerido)
-DURATION: 4.0s
-ASPECT RATIO: 9:16 vertical
-MODE: Kling 3.0 Standard
-CAMERA CONTROL: handheld subtle shake (camera vibrates gently on impact frames — see below)
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       4s   (slider — timeline slot exacto, sin trim CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      1
+FIRST FRAME:  assets/frames_output/frame_06.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt (Kling 3.0 no tiene campo separado)
 
-MOTION PROMPT:
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
 Anime-style extreme close-up of an antique brass door lock on a heavy dark wooden door. The door is completely still for the first second. Then a sharp knock: the entire frame vibrates briefly for 0.3s (subtle handheld camera shake ~5px displacement, plus faint dust particles jarred loose from the wood grain). Return to stillness for 0.8s. Second knock: another vibration burst (identical pattern). Return to stillness for the remainder. Warm interior candle-like lighting stays constant throughout. The brass lock reflects the warm light. 2D anime cel-shaded aesthetic preserved, Makoto Shinkai style. Tense, ominous, waiting.
 
-NEGATIVE PROMPT:
-door opening, door breaking, hand appearing, lock turning, continuous shaking, wobbling camera, morphing door, photorealism, 3D CGI, live action, style shift, exaggerated vibration, earthquake.
+Avoid: door opening, door breaking, hand appearing, lock turning, continuous shaking, wobbling camera, morphing door, earthquake shake, exaggerated vibration, photorealism, 3D CGI, live action, style shift.
+
+========== CAPCUT POST ==========
+- Ninguno (Kling ya entrega 4s exactos del timeline slot).
+
+========== LITERARY MOTIF (context only, do not paste) ==========
+Anticipación del arribo tocar puerta antes de que Orión aparezca (Parte III).

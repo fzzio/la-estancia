@@ -1,14 +1,23 @@
-CLIP 5 — Rocío silueta con maletas (16.0-20.0s)
+CLIP 5 — Rocío silueta con maletas (timeline 16.0-20.0s)
 
-FIRST FRAME: assets/frames_output/frame_05.png
-LAST FRAME: (opcional, no requerido)
-DURATION: 4.0s
-ASPECT RATIO: 9:16 vertical
-MODE: Kling 3.0 Standard
-CAMERA CONTROL: extremely slow push-in (very subtle dolly forward, ~3-4% zoom in over duration)
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       4s   (slider — timeline slot exacto, sin trim CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      1
+FIRST FRAME:  assets/frames_output/frame_05.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt (Kling 3.0 no tiene campo separado)
 
-MOTION PROMPT:
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
 Anime-style silhouette of a young woman standing motionless in the center of a warm 19th century interior, two heavy leather suitcases with buckles at her feet. She stands still — no breathing, no swaying. Only environmental motion animates the frame: golden backlight through the window intensifies then dims very slightly (light breathing like clouds passing outside), dust particles float slowly downward in the sunbeam behind her, the clockmaker workshop gears in the background glint faintly. The pocket-watch chain on her waist catches a soft glint. Camera performs an extremely slow push-in over the full duration (~3-4% zoom). 2D anime cel-shaded aesthetic preserved, Makoto Shinkai style. Frozen, resigned, ceremonial stillness.
 
-NEGATIVE PROMPT:
-figure turning, figure walking, figure moving, suitcases moving, dramatic light changes, sky changing, background morphing, photorealism, 3D CGI, live action, style shift, fast camera movement, camera shake.
+Avoid: figure turning, figure walking, figure moving, suitcases moving, suitcases opening, dramatic light changes, light flashing, sky changing, background morphing, morphing figure, photorealism, 3D CGI, live action, style shift, fast camera movement, camera shake, camera pan.
+
+========== CAPCUT POST ==========
+- Ninguno (Kling ya entrega 4s exactos del timeline slot).
+
+========== LITERARY MOTIF (context only, do not paste) ==========
+Rocío lista para partir, maletas ya preparadas hace tiempo (Parte II-III).

@@ -1,14 +1,23 @@
-CLIP 2 — Rocío reflejo ventana (2.5-6.0s)
+CLIP 2 — Rocío reflejo ventana (timeline 2.5-6.0s)
 
-FIRST FRAME: assets/frames_output/frame_02.png
-LAST FRAME: (opcional, no requerido)
-DURATION: 3.5s (Kling free suele generar 5s; recortar en CapCut si necesario)
-ASPECT RATIO: 9:16 vertical
-MODE: Kling 3.0 Standard
-CAMERA CONTROL: STATIC (locked off, no camera movement)
+========== KLING 3.0 SETTINGS ==========
+LENGTH:       4s   (slider entero — timeline slot 3.5s, se trima 0.5s en CapCut)
+VIDEO RATIO:  9:16 (default UI es 16:9 — CAMBIAR a 9:16)
+MODE:         1080p (VIP)
+NATIVE AUDIO: OFF
+MULTI-SHOT:   OFF
+OUTPUTS:      1
+FIRST FRAME:  assets/frames_output/frame_02.png
+LAST FRAME:   (none)
+CAMERA:       instrucción va DENTRO del prompt (Kling 3.0 no tiene campo separado)
 
-MOTION PROMPT:
+========== PROMPT (copy-paste ALL of this block into Kling motion box) ==========
 Anime-style young woman with wavy black shoulder-length hair standing motionless with her back to camera facing a tall window. Her reflection is visible on the glass. Only ONE thing animates: a single crystalline tear rolls slowly down the cheek visible in the window reflection (from inner corner of her eye down to jawline over the full duration). The tear catches the warm afternoon golden light. Her hair, her body, and the outside sky remain completely still — no breathing, no wind, no environmental motion. Warm 19th century interior light steady. Camera absolutely static. 2D anime cel-shaded aesthetic preserved throughout, Makoto Shinkai style. Silent quiet grief.
 
-NEGATIVE PROMPT:
-distorted face, morphing reflection, camera movement, panning, zooming, exaggerated motion, hair blowing, body turning, multiple tears, tears streaming, photorealism, 3D CGI, live action, style shift.
+Avoid: head turning, body swaying, breathing motion, hair blowing, wind, multiple tears, tear vanishing, sky moving, curtain moving, morphing face, morphing reflection, second person appearing, photorealism, 3D CGI, live action, style shift, camera pan, camera zoom.
+
+========== CAPCUT POST ==========
+- Trim 0.5s (slider Kling solo acepta enteros, timeline slot es 3.5s → generar 4s y cortar 0.5s de la sección más estática).
+
+========== LITERARY MOTIF (context only, do not paste) ==========
+Rocío mira por la ventana antes de partir, dolor contenido (Parte II-III).
